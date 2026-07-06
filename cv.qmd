@@ -1,0 +1,17 @@
+---
+title: ""
+toc: false
+---
+
+# Curriculum Vitae
+
+This page provides a summary of my academic and professional background.
+
+<div class="cv-button-block">
+<a class="button-primary" href="files/Alan-Figueroa-Ruiz-CV.pdf">Download CV</a>
+</div>
+
+Place your PDF CV inside the `files/` folder and name it exactly:
+
+```text
+Alan-Figueroa-Ruiz-CV.pdf

@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ajfigueroaruiz.github.io/teaching.html</loc>
+    <lastmod>2026-07-06T16:59:51.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajfigueroaruiz.github.io/publications.html</loc>
+    <lastmod>2026-07-06T16:59:50.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajfigueroaruiz.github.io/outreach.html</loc>
+    <lastmod>2026-07-06T16:59:51.662Z</lastmod>
+  </url>
+  <url>
     <loc>https://ajfigueroaruiz.github.io/index.html</loc>
-    <lastmod>2026-07-05T23:54:02.614Z</lastmod>
+    <lastmod>2026-07-06T17:02:24.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajfigueroaruiz.github.io/contact.html</loc>
+    <lastmod>2026-07-06T16:59:52.955Z</lastmod>
   </url>
   <url>
     <loc>https://ajfigueroaruiz.github.io/about.html</loc>
-    <lastmod>2026-07-05T23:55:51.898Z</lastmod>
+    <lastmod>2026-07-06T16:59:48.621Z</lastmod>
   </url>
   <url>
-    <loc>https://ajfigueroaruiz.github.io/research.html</loc>
-    <lastmod>2026-07-05T23:56:44.579Z</lastmod>
+    <loc>https://ajfigueroaruiz.github.io/cv.html</loc>
+    <lastmod>2026-07-06T16:59:52.612Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajfigueroaruiz.github.io/news.html</loc>
+    <lastmod>2026-07-06T16:59:52.241Z</lastmod>
   </url>
   <url>
     <loc>https://ajfigueroaruiz.github.io/projects.html</loc>
-    <lastmod>2026-07-05T23:57:16.907Z</lastmod>
+    <lastmod>2026-07-06T16:59:50.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajfigueroaruiz.github.io/research.html</loc>
+    <lastmod>2026-07-06T16:59:49.349Z</lastmod>
   </url>
 </urlset>

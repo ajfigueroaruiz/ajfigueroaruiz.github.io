@@ -54,12 +54,18 @@ website:
         href: https://www.protocols.io/researchers/alfiru
         aria-label: protocols.io
 
+  page-footer:
+    left: "© 2026 Alan J. Figueroa Ruiz"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-location: right
     page-layout: full
     smooth-scroll: true
+    link-external-newwindow: true
 
 editor: visual

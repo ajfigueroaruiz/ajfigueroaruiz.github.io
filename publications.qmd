@@ -1,0 +1,49 @@
+---
+title: ""
+---
+
+# Publications & Presentations
+
+This page summarizes manuscripts, conference presentations, posters, protocols, and public-facing research outputs.
+
+## Manuscripts in preparation
+
+### First epidemiological assessment of *Toxoplasma gondii* serological testing in Puerto Rico
+
+**Working title:** First epidemiological assessment of *Toxoplasma gondii* serological testing in Puerto Rico: an analysis of NBS human diagnostic records
+
+This manuscript examines human *Toxoplasma gondii* diagnostic testing records from Puerto Rico to provide an initial epidemiological assessment of exposure patterns across demographic and regional variables.
+
+**Status:** In preparation
+
+## Conference presentations
+
+### UPRM Biology Symposium
+
+**Title:** First Epidemiological Evidence of Human *Toxoplasma gondii* Exposure in Puerto Rico: a Retrospective Analysis of Diagnostic Records
+
+**Authors:** Alan J. Figueroa Ruiz, Héctor G. Reyes Delgado, Karina S. Tapia Ortiz, and Alex J. Veglia
+
+**Event:** Biology Symposium, University of Puerto Rico at Mayagüez
+
+**Format:** Oral presentation
+
+## Posters
+
+Poster presentations will be listed here as they are accepted and presented.
+
+## Protocols and workflows
+
+Research protocols, reproducible workflows, and methodological documents will be linked here.
+
+Potential future links:
+
+- Environmental sample collection protocols
+- DNA extraction and qPCR workflows
+- R-based epidemiological analysis pipeline
+- Field sampling metadata templates
+- Community outreach materials
+
+## Selected research outputs
+
+This section will eventually include downloadable posters, slides, GitHub repositories, protocols.io links, and manuscript links.

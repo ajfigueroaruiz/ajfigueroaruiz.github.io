@@ -1,0 +1,34 @@
+---
+title: ""
+---
+
+# News
+
+This page will document research updates, presentations, outreach events, publications, fieldwork, and professional milestones.
+
+## 2026
+
+### Personal academic website launched
+
+This website was created as a central space for my research, teaching, outreach, publications, projects, and reproducible science portfolio.
+
+### Human *Toxoplasma gondii* epidemiology project
+
+The human *Toxoplasma gondii* epidemiology project is being prepared for manuscript development. The project uses diagnostic records from Puerto Rico to assess exposure patterns and contribute to One Health research on the island.
+
+### Manatee Project Puerto Rico
+
+The Manatee Project Puerto Rico continues to develop as a research program focused on environmental transmission pathways of *Toxoplasma gondii* and potential implications for the endangered Antillean manatee.
+
+## Future updates
+
+This section will eventually include:
+
+- Manuscript submissions
+- Conference presentations
+- Funding announcements
+- Fieldwork updates
+- Outreach events
+- New GitHub repositories
+- New protocols
+- Teaching resources

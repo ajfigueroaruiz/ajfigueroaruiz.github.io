@@ -1,31 +1,119 @@
 ---
-title: "Home"
+title: ""
+toc: false
+page-layout: full
 ---
+
+::::: hero-section
+:::: hero-content
+Wildlife Disease Ecology · One Health · Conservation Physiology
 
 # Alan J. Figueroa Ruiz
 
-**Conservation agronomist | M.S. Biology student | Wildlife disease ecology | One Health**
+## Conservation agronomist and M.S. Biology student studying pathogen movement across human-modified landscapes.
 
-I am a conservation agronomist and master's student in Biology at the University of Puerto Rico at Mayagüez, interested in wildlife disease ecology, conservation physiology, One Health, and the movement of pathogens across human-modified landscapes.
+My work explores how environmental change, human activity, and pathogen exposure affect wildlife health, with a focus on *Toxoplasma gondii* transmission across terrestrial, estuarine, and marine systems in Puerto Rico.
 
-My current work focuses on *Toxoplasma gondii* at the land-sea interface in Puerto Rico, with emphasis on environmental transmission pathways and conservation implications for the endangered Antillean manatee.
+::: hero-buttons
+[Explore my research](research.qmd){.button-primary}\
 
-## Research interests
+[View projects](projects.qmd){.button-secondary}\
 
-- Wildlife disease ecology
-- Conservation physiology
-- One Health
-- Environmental and molecular diagnostics
-- Bioinformatics and reproducible research
-- Community-based conservation science
+[View CV](cv.qmd){.button-secondary}
+:::
+::::
+:::::
 
-## Current projects
+::: section-block
+## Current focus
 
-- Manatee Project Puerto Rico
-- Human *Toxoplasma gondii* epidemiology in Puerto Rico
-- Zebrafish (*Danio rerio*) ZF4 cells infected with *Toxoplasma gondii*
-- WildCiencia science communication
+I am a master's student in Biology at the University of Puerto Rico at Mayagüez, working at the intersection of wildlife disease ecology, conservation physiology, One Health, environmental health, and reproducible research.
 
-## About this website
+My current research focuses on the land-sea transmission of *Toxoplasma gondii* in Puerto Rico and its potential conservation implications for the endangered Caribbean manatee. I am especially interested in how human-modified landscapes, stormwater runoff, feral and community cats, coastal ecosystems, and pathogen exposure connect terrestrial and marine health.
+:::
 
-This website serves as a central space for my research, projects, teaching, outreach, presentations, publications, and reproducible science portfolio.
+:::::::: section-block
+## Research themes
+
+::::::: card-grid
+::: info-card
+### Wildlife disease ecology
+
+Understanding how pathogens move through ecosystems and affect threatened wildlife populations.
+:::
+
+::: info-card
+### One Health
+
+Connecting human, animal, and environmental health through island-based conservation science.
+:::
+
+::: info-card
+### Conservation physiology
+
+Exploring how stressors, disease, and environmental change shape organismal health and survival.
+:::
+
+::: info-card
+### Reproducible research
+
+Using R, GitHub, bioinformatics, mapping, and open workflows to make research transparent and reusable.
+:::
+:::::::
+::::::::
+
+:::::::: section-block
+## Selected projects
+
+::::::: project-grid
+::: project-card
+### Manatee Project Puerto Rico
+
+Environmental transmission of *Toxoplasma gondii* across terrestrial, estuarine, and marine systems in Puerto Rico.
+
+[Read more →](projects.qmd)
+:::
+
+::: project-card
+### Human *T. gondii* epidemiology
+
+Retrospective analysis of human diagnostic records to characterize evidence of exposure in Puerto Rico.
+
+[Read more →](projects.qmd)
+:::
+
+::: project-card
+### Zebrafish ZF4 infection model
+
+Cellular and tissue-based work using zebrafish ZF4 cells infected with *Toxoplasma gondii*.
+
+[Read more →](projects.qmd)
+:::
+
+::: project-card
+### WildCiencia
+
+Science communication and community-based conservation outreach focused on island science.
+
+[Read more →](outreach.qmd)
+:::
+:::::::
+::::::::
+
+:::: section-block
+## Website sections
+
+::: link-grid
+[Publications & Presentations](publications.qmd)
+
+[Teaching](teaching.qmd)
+
+[Outreach](outreach.qmd)
+
+[News](news.qmd)
+
+[CV](cv.qmd)
+
+[Contact](contact.qmd)
+:::
+::::

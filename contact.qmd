@@ -1,0 +1,47 @@
+---
+title: ""
+toc: false
+---
+
+# Contact
+
+I welcome opportunities to connect around wildlife disease ecology, conservation physiology, One Health, environmental health, Puerto Rican island science, student mentoring, and community-based conservation.
+
+## Email
+
+**Email:** [alan.figueroa@upr.edu](mailto:alan.figueroa@upr.edu)
+
+Replace this placeholder with your preferred professional email.
+
+## Professional links
+
+- [GitHub](https://github.com/ajfigueroaruiz)
+- [LinkedIn](https://www.linkedin.com/in/alfiru)
+- [ORCID](https://orcid.org/0009-0000-0484-3257)
+- [ResearchGate](https://www.researchgate.net/profile/Alan-Figueroa-Ruiz)
+- [protocols.io](https://www.protocols.io/researchers/alfiru)
+
+## Microsoft - Book Time to Meet with Me
+
+- [Book Time](https://outlook.office.com/bookwithme/user/6d14d094f2d34a2390a4a9699a33e653@upr.edu?anonymous&ismsaljsauthenabled&ep=plink)
+
+## Research affiliation
+
+**Department of Biology**  
+University of Puerto Rico at Mayagüez  
+
+**ViDaB Lab**  
+Virus Diversity and Bioinformatics Laboratory
+
+## Collaboration interests
+
+I am especially interested in collaborations related to:
+
+- Wildlife disease ecology
+- Marine mammal conservation
+- *Toxoplasma gondii* transmission
+- Environmental surveillance
+- One Health
+- Conservation physiology
+- Bioinformatics and reproducible research
+- Community-based science education

@@ -1,0 +1,55 @@
+---
+title: ""
+---
+
+# Teaching
+
+My teaching interests are grounded in physiology, anatomy, disease ecology, wildlife biology, One Health, and applied conservation science. I am especially interested in helping students connect biological concepts with real-world animal health, environmental health, and conservation problems.
+
+## Teaching interests
+
+- Human and comparative physiology
+- Human and animal anatomy
+- Wildlife disease ecology
+- Conservation physiology
+- One Health
+- Virology and host-pathogen interactions
+- Reproducible research using R and GitHub
+- Scientific communication
+
+## Teaching experience
+
+### Human Physiology
+
+Experience supporting and teaching physiology content, including cardiovascular physiology, respiratory physiology, autonomic nervous system regulation, blood pressure, ECG interpretation, and integrated physiological responses.
+
+### Human Anatomy
+
+Interest in teaching anatomy through comparative and functional perspectives, connecting structure to physiology, health, and disease.
+
+### Student mentoring
+
+I value mentoring undergraduate students through fieldwork, laboratory techniques, data analysis, scientific writing, and professional development. My goal is to help students see themselves as capable contributors to science, especially in Puerto Rican and island-based research contexts.
+
+## Teaching philosophy
+
+I believe science education should be rigorous, accessible, and connected to place. Students learn more deeply when they can connect biological concepts to the ecosystems, animals, communities, and public health challenges around them.
+
+My teaching approach emphasizes:
+
+- Clear conceptual explanations
+- Applied examples from wildlife, veterinary, and human health
+- Student participation and discussion
+- Visual learning and data interpretation
+- Reproducible workflows
+- Community-centered science
+
+## Future teaching materials
+
+This website will eventually host selected teaching resources, including:
+
+- Short physiology explanations
+- Laboratory guides
+- R and GitHub tutorials
+- One Health case studies
+- Wildlife disease ecology teaching modules

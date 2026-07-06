@@ -1,31 +1,206 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching interests are grounded in physiology, anatomy, disease ecology, wildlife biology, One Health, and applied conservation science. I am especially interested in helping students connect biological concepts with real-world animal health, environmental health, and conservation problems.\n\n\n\nHuman and comparative physiology\nHuman and animal anatomy\nWildlife disease ecology\nConservation physiology\nOne Health\nVirology and host-pathogen interactions\nReproducible research using R and GitHub\nScientific communication\n\n\n\n\n\n\nExperience supporting and teaching physiology content, including cardiovascular physiology, respiratory physiology, autonomic nervous system regulation, blood pressure, ECG interpretation, and integrated physiological responses.\n\n\n\nInterest in teaching anatomy through comparative and functional perspectives, connecting structure to physiology, health, and disease.\n\n\n\nI value mentoring undergraduate students through fieldwork, laboratory techniques, data analysis, scientific writing, and professional development. My goal is to help students see themselves as capable contributors to science, especially in Puerto Rican and island-based research contexts.\n\n\n\n\nI believe science education should be rigorous, accessible, and connected to place. Students learn more deeply when they can connect biological concepts to the ecosystems, animals, communities, and public health challenges around them.\nMy teaching approach emphasizes:\n\nClear conceptual explanations\nApplied examples from wildlife, veterinary, and human health\nStudent participation and discussion\nVisual learning and data interpretation\nReproducible workflows\nCommunity-centered science\n\n\n\n\nThis website will eventually host selected teaching resources, including:\n\nShort physiology explanations\nLaboratory guides\nR and GitHub tutorials\nOne Health case studies\nWildlife disease ecology teaching modules"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "",
+    "text": "Human and comparative physiology\nHuman and animal anatomy\nWildlife disease ecology\nConservation physiology\nOne Health\nVirology and host-pathogen interactions\nReproducible research using R and GitHub\nScientific communication"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Experience supporting and teaching physiology content, including cardiovascular physiology, respiratory physiology, autonomic nervous system regulation, blood pressure, ECG interpretation, and integrated physiological responses.\n\n\n\nInterest in teaching anatomy through comparative and functional perspectives, connecting structure to physiology, health, and disease.\n\n\n\nI value mentoring undergraduate students through fieldwork, laboratory techniques, data analysis, scientific writing, and professional development. My goal is to help students see themselves as capable contributors to science, especially in Puerto Rican and island-based research contexts."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "I believe science education should be rigorous, accessible, and connected to place. Students learn more deeply when they can connect biological concepts to the ecosystems, animals, communities, and public health challenges around them.\nMy teaching approach emphasizes:\n\nClear conceptual explanations\nApplied examples from wildlife, veterinary, and human health\nStudent participation and discussion\nVisual learning and data interpretation\nReproducible workflows\nCommunity-centered science"
+  },
+  {
+    "objectID": "teaching.html#future-teaching-materials",
+    "href": "teaching.html#future-teaching-materials",
+    "title": "Teaching",
+    "section": "",
+    "text": "This website will eventually host selected teaching resources, including:\n\nShort physiology explanations\nLaboratory guides\nR and GitHub tutorials\nOne Health case studies\nWildlife disease ecology teaching modules"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "This page summarizes manuscripts, conference presentations, posters, protocols, and public-facing research outputs.\n\n\n\n\nWorking title: First epidemiological assessment of Toxoplasma gondii serological testing in Puerto Rico: an analysis of NBS human diagnostic records\nThis manuscript examines human Toxoplasma gondii diagnostic testing records from Puerto Rico to provide an initial epidemiological assessment of exposure patterns across demographic and regional variables.\nStatus: In preparation\n\n\n\n\n\n\nTitle: First Epidemiological Evidence of Human Toxoplasma gondii Exposure in Puerto Rico: a Retrospective Analysis of Diagnostic Records\nAuthors: Alan J. Figueroa Ruiz, Héctor G. Reyes Delgado, Karina S. Tapia Ortiz, and Alex J. Veglia\nEvent: Biology Symposium, University of Puerto Rico at Mayagüez\nFormat: Oral presentation\n\n\n\n\nPoster presentations will be listed here as they are accepted and presented.\n\n\n\nResearch protocols, reproducible workflows, and methodological documents will be linked here.\nPotential future links:\n\nEnvironmental sample collection protocols\nDNA extraction and qPCR workflows\nR-based epidemiological analysis pipeline\nField sampling metadata templates\nCommunity outreach materials\n\n\n\n\nThis section will eventually include downloadable posters, slides, GitHub repositories, protocols.io links, and manuscript links."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Working title: First epidemiological assessment of Toxoplasma gondii serological testing in Puerto Rico: an analysis of NBS human diagnostic records\nThis manuscript examines human Toxoplasma gondii diagnostic testing records from Puerto Rico to provide an initial epidemiological assessment of exposure patterns across demographic and regional variables.\nStatus: In preparation"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Title: First Epidemiological Evidence of Human Toxoplasma gondii Exposure in Puerto Rico: a Retrospective Analysis of Diagnostic Records\nAuthors: Alan J. Figueroa Ruiz, Héctor G. Reyes Delgado, Karina S. Tapia Ortiz, and Alex J. Veglia\nEvent: Biology Symposium, University of Puerto Rico at Mayagüez\nFormat: Oral presentation"
+  },
+  {
+    "objectID": "publications.html#posters",
+    "href": "publications.html#posters",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Poster presentations will be listed here as they are accepted and presented."
+  },
+  {
+    "objectID": "publications.html#protocols-and-workflows",
+    "href": "publications.html#protocols-and-workflows",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Research protocols, reproducible workflows, and methodological documents will be linked here.\nPotential future links:\n\nEnvironmental sample collection protocols\nDNA extraction and qPCR workflows\nR-based epidemiological analysis pipeline\nField sampling metadata templates\nCommunity outreach materials"
+  },
+  {
+    "objectID": "publications.html#selected-research-outputs",
+    "href": "publications.html#selected-research-outputs",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "This section will eventually include downloadable posters, slides, GitHub repositories, protocols.io links, and manuscript links."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Community-based science is central to my work. I believe conservation becomes stronger when communities are not treated only as audiences, but as partners in understanding, caring for, and protecting local environments.\n\n\nWildCiencia is a science communication and outreach initiative focused on making wildlife, conservation, and One Health science more accessible to the public.\nThe goal is to connect scientific research with communities, students, educators, and conservation partners through accessible language, visual communication, and culturally relevant storytelling.\n\n\n\nMy outreach work is shaped by the idea that communities can develop belonging in local spaces and are often the people who put conservation into action.\nAreas of outreach interest include:\n\nWildlife conservation education\nManatee conservation\nEnvironmental health\nOne Health\nPathogen movement across land and sea\nResponsible pet ownership and cat-related environmental health\nStudent training and mentorship\nPuerto Rican island science\n\n\n\n\nThe Manatee Project Puerto Rico integrates research, fieldwork, education, and community engagement to communicate how environmental health connects with the conservation of endangered marine mammals.\nFuture outreach materials may include:\n\nEducational infographics\nField sampling explainers\nCommunity talks\nShort videos\nSchool-based activities\nPublic-facing summaries of research findings\n\n\n\n\nAn important part of my work is helping undergraduate and high school students gain exposure to research. Training areas include:\n\nField sampling\nLaboratory methods\nMetadata organization\nScientific communication\nLiterature review\nR and data analysis\nProfessional development\n\n\n\n\nFuture outreach events, photos, flyers, and public materials will be added here."
+  },
+  {
+    "objectID": "outreach.html#wildciencia",
+    "href": "outreach.html#wildciencia",
+    "title": "Outreach",
+    "section": "",
+    "text": "WildCiencia is a science communication and outreach initiative focused on making wildlife, conservation, and One Health science more accessible to the public.\nThe goal is to connect scientific research with communities, students, educators, and conservation partners through accessible language, visual communication, and culturally relevant storytelling."
+  },
+  {
+    "objectID": "outreach.html#community-based-conservation-science",
+    "href": "outreach.html#community-based-conservation-science",
+    "title": "Outreach",
+    "section": "",
+    "text": "My outreach work is shaped by the idea that communities can develop belonging in local spaces and are often the people who put conservation into action.\nAreas of outreach interest include:\n\nWildlife conservation education\nManatee conservation\nEnvironmental health\nOne Health\nPathogen movement across land and sea\nResponsible pet ownership and cat-related environmental health\nStudent training and mentorship\nPuerto Rican island science"
+  },
+  {
+    "objectID": "outreach.html#manatee-project-puerto-rico-outreach",
+    "href": "outreach.html#manatee-project-puerto-rico-outreach",
+    "title": "Outreach",
+    "section": "",
+    "text": "The Manatee Project Puerto Rico integrates research, fieldwork, education, and community engagement to communicate how environmental health connects with the conservation of endangered marine mammals.\nFuture outreach materials may include:\n\nEducational infographics\nField sampling explainers\nCommunity talks\nShort videos\nSchool-based activities\nPublic-facing summaries of research findings"
+  },
+  {
+    "objectID": "outreach.html#student-training",
+    "href": "outreach.html#student-training",
+    "title": "Outreach",
+    "section": "",
+    "text": "An important part of my work is helping undergraduate and high school students gain exposure to research. Training areas include:\n\nField sampling\nLaboratory methods\nMetadata organization\nScientific communication\nLiterature review\nR and data analysis\nProfessional development"
+  },
+  {
+    "objectID": "outreach.html#outreach-archive",
+    "href": "outreach.html#outreach-archive",
+    "title": "Outreach",
+    "section": "",
+    "text": "Future outreach events, photos, flyers, and public materials will be added here."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Alan J. Figueroa Ruiz",
     "section": "",
-    "text": "Conservation agronomist | M.S. Biology student | Wildlife disease ecology | One Health\nI am a conservation agronomist and master’s student in Biology at the University of Puerto Rico at Mayagüez, interested in wildlife disease ecology, conservation physiology, One Health, and the movement of pathogens across human-modified landscapes.\nMy current work focuses on Toxoplasma gondii at the land-sea interface in Puerto Rico, with emphasis on environmental transmission pathways and conservation implications for the endangered Antillean manatee.\n\n\n\nWildlife disease ecology\nConservation physiology\nOne Health\nEnvironmental and molecular diagnostics\nBioinformatics and reproducible research\nCommunity-based conservation science\n\n\n\n\n\nManatee Project Puerto Rico\nHuman Toxoplasma gondii epidemiology in Puerto Rico\nZebrafish (Danio rerio) ZF4 cells infected with Toxoplasma gondii\nWildCiencia science communication\n\n\n\n\nThis website serves as a central space for my research, projects, teaching, outreach, presentations, publications, and reproducible science portfolio."
+    "text": "Wildlife Disease Ecology · One Health · Conservation Physiology\n\n\n\n\nMy work explores how environmental change, human activity, and pathogen exposure affect wildlife health, with a focus on Toxoplasma gondii transmission across terrestrial, estuarine, and marine systems in Puerto Rico.\n\nExplore my research\n\nView projects\n\nView CV"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Home",
+    "objectID": "index.html#conservation-agronomist-and-m.s.-biology-student-studying-pathogen-movement-across-human-modified-landscapes.",
+    "href": "index.html#conservation-agronomist-and-m.s.-biology-student-studying-pathogen-movement-across-human-modified-landscapes.",
+    "title": "Alan J. Figueroa Ruiz",
     "section": "",
-    "text": "Wildlife disease ecology\nConservation physiology\nOne Health\nEnvironmental and molecular diagnostics\nBioinformatics and reproducible research\nCommunity-based conservation science"
+    "text": "My work explores how environmental change, human activity, and pathogen exposure affect wildlife health, with a focus on Toxoplasma gondii transmission across terrestrial, estuarine, and marine systems in Puerto Rico.\n\nExplore my research\n\nView projects\n\nView CV"
   },
   {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Home",
-    "section": "",
-    "text": "Manatee Project Puerto Rico\nHuman Toxoplasma gondii epidemiology in Puerto Rico\nZebrafish (Danio rerio) ZF4 cells infected with Toxoplasma gondii\nWildCiencia science communication"
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Alan J. Figueroa Ruiz",
+    "section": "Current focus",
+    "text": "Current focus\nI am a master’s student in Biology at the University of Puerto Rico at Mayagüez, working at the intersection of wildlife disease ecology, conservation physiology, One Health, environmental health, and reproducible research.\nMy current research focuses on the land-sea transmission of Toxoplasma gondii in Puerto Rico and its potential conservation implications for the endangered Caribbean manatee. I am especially interested in how human-modified landscapes, stormwater runoff, feral and community cats, coastal ecosystems, and pathogen exposure connect terrestrial and marine health."
   },
   {
-    "objectID": "index.html#about-this-website",
-    "href": "index.html#about-this-website",
-    "title": "Home",
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Alan J. Figueroa Ruiz",
+    "section": "Research themes",
+    "text": "Research themes\n\n\nWildlife disease ecology\nUnderstanding how pathogens move through ecosystems and affect threatened wildlife populations.\n\n\nOne Health\nConnecting human, animal, and environmental health through island-based conservation science.\n\n\nConservation physiology\nExploring how stressors, disease, and environmental change shape organismal health and survival.\n\n\nReproducible research\nUsing R, GitHub, bioinformatics, mapping, and open workflows to make research transparent and reusable."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Alan J. Figueroa Ruiz",
+    "section": "Selected projects",
+    "text": "Selected projects\n\n\nManatee Project Puerto Rico\nEnvironmental transmission of Toxoplasma gondii across terrestrial, estuarine, and marine systems in Puerto Rico.\nRead more →\n\n\nHuman T. gondii epidemiology\nRetrospective analysis of human diagnostic records to characterize evidence of exposure in Puerto Rico.\nRead more →\n\n\nZebrafish ZF4 infection model\nCellular and tissue-based work using zebrafish ZF4 cells infected with Toxoplasma gondii.\nRead more →\n\n\nWildCiencia\nScience communication and community-based conservation outreach focused on island science.\nRead more →"
+  },
+  {
+    "objectID": "index.html#website-sections",
+    "href": "index.html#website-sections",
+    "title": "Alan J. Figueroa Ruiz",
+    "section": "Website sections",
+    "text": "Website sections\n\nPublications & Presentations\nTeaching\nOutreach\nNews\nCV\nContact"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "This website serves as a central space for my research, projects, teaching, outreach, presentations, publications, and reproducible science portfolio."
+    "text": "I welcome opportunities to connect around wildlife disease ecology, conservation physiology, One Health, environmental health, Puerto Rican island science, student mentoring, and community-based conservation.\n\n\nEmail: alan.figueroa@upr.edu\nReplace this placeholder with your preferred professional email.\n\n\n\n\nGitHub\nLinkedIn\nORCID\nResearchGate\nprotocols.io\n\n\n\n\n\nBook Time\n\n\n\n\nDepartment of Biology\nUniversity of Puerto Rico at Mayagüez\nViDaB Lab\nVirus Diversity and Bioinformatics Laboratory\n\n\n\nI am especially interested in collaborations related to:\n\nWildlife disease ecology\nMarine mammal conservation\nToxoplasma gondii transmission\nEnvironmental surveillance\nOne Health\nConservation physiology\nBioinformatics and reproducible research\nCommunity-based science education"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: alan.figueroa@upr.edu\nReplace this placeholder with your preferred professional email."
+  },
+  {
+    "objectID": "contact.html#professional-links",
+    "href": "contact.html#professional-links",
+    "title": "Contact",
+    "section": "",
+    "text": "GitHub\nLinkedIn\nORCID\nResearchGate\nprotocols.io"
+  },
+  {
+    "objectID": "contact.html#microsoft---book-time-to-meet-with-me",
+    "href": "contact.html#microsoft---book-time-to-meet-with-me",
+    "title": "Contact",
+    "section": "",
+    "text": "Book Time"
+  },
+  {
+    "objectID": "contact.html#research-affiliation",
+    "href": "contact.html#research-affiliation",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Biology\nUniversity of Puerto Rico at Mayagüez\nViDaB Lab\nVirus Diversity and Bioinformatics Laboratory"
+  },
+  {
+    "objectID": "contact.html#collaboration-interests",
+    "href": "contact.html#collaboration-interests",
+    "title": "Contact",
+    "section": "",
+    "text": "I am especially interested in collaborations related to:\n\nWildlife disease ecology\nMarine mammal conservation\nToxoplasma gondii transmission\nEnvironmental surveillance\nOne Health\nConservation physiology\nBioinformatics and reproducible research\nCommunity-based science education"
   },
   {
     "objectID": "about.html",
@@ -35,25 +210,39 @@
     "text": "About\nI am a conservation agronomist and master’s student in Biology at the University of Puerto Rico at Mayagüez. My academic background combines Animal Science, Natural Resources Conservation and Development, and Environmental Sociology and Public Policy, giving me a multidisciplinary foundation in animal biology, conservation, environmental systems, and the social dimensions of natural resource management.\nMy research interests focus on wildlife health, conservation physiology, One Health, comparative anatomy, reproductive biology, and the effects of landscape change, anthropogenic activity, and climate change on threatened species. My current graduate research examines Toxoplasma gondii at the land–sea interface in Puerto Rico, with emphasis on pathogen movement from terrestrial environments into coastal ecosystems and its potential implications for the endangered Caribbean manatee. Through this work, I integrate disease ecology, physiology, wildlife conservation, environmental health, molecular diagnostics, bioinformatics, and community-based outreach. I am particularly interested in using veterinary medicine and biological sciences together to understand how disease, environmental stressors, reproductive processes, tissue-level changes, and physiological responses shape the health and survival of wildlife populations. This interest connects my current work in ecological disease and conservation with my broader goal of applying comparative anatomy, embryology, reproductive biology, and conservation physiology to the study and protection of endangered species.\nI am deeply committed to community-based science because I believe communities have the power to reclaim, care for, and develop a sense of belonging within the spaces they inhabit, and that they are essential partners in putting conservation into action. I bring experience in conservation, animal science, research support, scientific writing, project coordination, environmental education, and community outreach. My long-term goal is to pursue combined DVM/PhD training and contribute to wildlife medicine, conservation research, reproductive and physiological approaches to species preservation, and the protection of endangered species worldwide.\nMore content coming soon."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "My research focuses on how pathogens, environmental change, and human-modified landscapes affect wildlife health.\n\n\n\nPathogen movement across land-sea interfaces\nWildlife disease ecology\nConservation physiology\nOne Health and environmental health\nMolecular diagnostics and environmental surveillance\nBioinformatics and reproducible research"
+    "text": "Curriculum Vitae\nThis page provides a summary of my academic and professional background.\n\nDownload CV\n\nPlace your PDF CV inside the files/ folder and name it exactly:\n```text Alan-Figueroa-Ruiz-CV.pdf"
   },
   {
-    "objectID": "research.html#research-themes",
-    "href": "research.html#research-themes",
-    "title": "Research",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
     "section": "",
-    "text": "Pathogen movement across land-sea interfaces\nWildlife disease ecology\nConservation physiology\nOne Health and environmental health\nMolecular diagnostics and environmental surveillance\nBioinformatics and reproducible research"
+    "text": "This page will document research updates, presentations, outreach events, publications, fieldwork, and professional milestones.\n\n\n\n\nThis website was created as a central space for my research, teaching, outreach, publications, projects, and reproducible science portfolio.\n\n\n\nThe human Toxoplasma gondii epidemiology project is being prepared for manuscript development. The project uses diagnostic records from Puerto Rico to assess exposure patterns and contribute to One Health research on the island.\n\n\n\nThe Manatee Project Puerto Rico continues to develop as a research program focused on environmental transmission pathways of Toxoplasma gondii and potential implications for the endangered Antillean manatee.\n\n\n\n\nThis section will eventually include:\n\nManuscript submissions\nConference presentations\nFunding announcements\nFieldwork updates\nOutreach events\nNew GitHub repositories\nNew protocols\nTeaching resources"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "This website was created as a central space for my research, teaching, outreach, publications, projects, and reproducible science portfolio.\n\n\n\nThe human Toxoplasma gondii epidemiology project is being prepared for manuscript development. The project uses diagnostic records from Puerto Rico to assess exposure patterns and contribute to One Health research on the island.\n\n\n\nThe Manatee Project Puerto Rico continues to develop as a research program focused on environmental transmission pathways of Toxoplasma gondii and potential implications for the endangered Antillean manatee."
+  },
+  {
+    "objectID": "news.html#future-updates",
+    "href": "news.html#future-updates",
+    "title": "News",
+    "section": "",
+    "text": "This section will eventually include:\n\nManuscript submissions\nConference presentations\nFunding announcements\nFieldwork updates\nOutreach events\nNew GitHub repositories\nNew protocols\nTeaching resources"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Research on Toxoplasma gondii transmission across terrestrial, estuarine, and marine environments in Puerto Rico, with conservation relevance for the endangered Antillean manatee.\n\n\n\nA retrospective analysis of human diagnostic records to characterize evidence of T. gondii exposure in Puerto Rico.\n\n\n\nA tissue and cellular biology project using zebrafish (Danio rerio) ZF4 cells infected with Toxoplasma gondii.\n\n\n\nScience communication and community-based conservation outreach."
+    "text": "Research on Toxoplasma gondii transmission across terrestrial, estuarine, and marine environments in Puerto Rico, with conservation relevance for the endangered Antillean manatee.\n\n\n\nA retrospective analysis of human diagnostic records to characterize evidence of T. gondii exposure in Puerto Rico.\n\n\n\nA tissue and cellular biology project using zebrafish (Danio rerio) ZF4 cells infected with Toxoplasma gondii.\n\n\n\nMy personal science communication and community-based conservation outreach project."
   },
   {
     "objectID": "projects.html#manatee-project-puerto-rico",
@@ -81,6 +270,20 @@
     "href": "projects.html#wildciencia",
     "title": "Projects",
     "section": "",
-    "text": "Science communication and community-based conservation outreach."
+    "text": "My personal science communication and community-based conservation outreach project."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on how pathogens, environmental change, and human-modified landscapes affect wildlife health.\n\n\n\nPathogen movement across land-sea interfaces\nWildlife disease ecology\nConservation physiology\nOne Health and environmental health\nMolecular diagnostics and environmental surveillance\nBioinformatics and reproducible research"
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "",
+    "text": "Pathogen movement across land-sea interfaces\nWildlife disease ecology\nConservation physiology\nOne Health and environmental health\nMolecular diagnostics and environmental surveillance\nBioinformatics and reproducible research"
   }
 ]
