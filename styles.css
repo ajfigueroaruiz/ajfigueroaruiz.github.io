@@ -1,0 +1,45 @@
+.navbar-icon {
+  height: 1.1rem;
+  width: 1.1rem;
+  vertical-align: -0.15rem;
+}
+
+/* Main website styling */
+
+body {
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.quarto-title-banner {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Homepage spacing */
+
+main.content {
+  max-width: 1000px;
+}
+
+/* Image styling for future use */
+
+img {
+  border-radius: 6px;
+}

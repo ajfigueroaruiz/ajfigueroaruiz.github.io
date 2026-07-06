@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Manatee Project Puerto Rico
+
+Research on *Toxoplasma gondii* transmission across terrestrial, estuarine, and marine environments in Puerto Rico, with conservation relevance for the endangered Antillean manatee.
+
+## Human *Toxoplasma gondii* Epidemiology in Puerto Rico
+
+A retrospective analysis of human diagnostic records to characterize evidence of *T. gondii* exposure in Puerto Rico.
+
+## Zebrafish ZF4 Cell Infection Model
+
+A tissue and cellular biology project using zebrafish (*Danio rerio*) ZF4 cells infected with *Toxoplasma gondii*.
+
+## WildCiencia
+
+My personal science communication and community-based conservation outreach project.

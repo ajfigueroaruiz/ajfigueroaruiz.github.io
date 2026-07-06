@@ -1,0 +1,16 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research focuses on how pathogens, environmental change, and human-modified landscapes affect wildlife health.
+
+## Research themes
+
+- Pathogen movement across land-sea interfaces
+- Wildlife disease ecology
+- Conservation physiology
+- One Health and environmental health
+- Molecular diagnostics and environmental surveillance
+- Bioinformatics and reproducible research

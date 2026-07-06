@@ -1,0 +1,31 @@
+---
+title: "Home"
+---
+
+# Alan J. Figueroa Ruiz
+
+**Conservation agronomist | M.S. Biology student | Wildlife disease ecology | One Health**
+
+I am a conservation agronomist and master's student in Biology at the University of Puerto Rico at Mayagüez, interested in wildlife disease ecology, conservation physiology, One Health, and the movement of pathogens across human-modified landscapes.
+
+My current work focuses on *Toxoplasma gondii* at the land-sea interface in Puerto Rico, with emphasis on environmental transmission pathways and conservation implications for the endangered Antillean manatee.
+
+## Research interests
+
+- Wildlife disease ecology
+- Conservation physiology
+- One Health
+- Environmental and molecular diagnostics
+- Bioinformatics and reproducible research
+- Community-based conservation science
+
+## Current projects
+
+- Manatee Project Puerto Rico
+- Human *Toxoplasma gondii* epidemiology in Puerto Rico
+- Zebrafish (*Danio rerio*) ZF4 cells infected with *Toxoplasma gondii*
+- WildCiencia science communication
+
+## About this website
+
+This website serves as a central space for my research, projects, teaching, outreach, presentations, publications, and reproducible science portfolio.
