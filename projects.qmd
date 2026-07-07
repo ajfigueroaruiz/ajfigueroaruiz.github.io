@@ -12,6 +12,39 @@ This page is the central portal to my research and outreach projects. Each major
 
 ::: {.section-block}
 
+## Project pathways
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Thesis research
+
+Manatee Project Puerto Rico and land-sea *Toxoplasma gondii* transmission.
+:::
+
+::: {.gateway-card}
+### Epidemiology
+
+Human diagnostic records, public health interpretation, and One Health data analysis.
+:::
+
+::: {.gateway-card}
+### Cell biology
+
+Zebrafish ZF4 cells, host-pathogen interactions, and comparative infection models.
+:::
+
+::: {.gateway-card}
+### Outreach platform
+
+WildCiencia, community-based conservation, education, and future public resources.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
 ## Project portfolio
 
 ::: {.project-grid}

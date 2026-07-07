@@ -12,6 +12,39 @@ I welcome opportunities to connect around conservation physiology, wildlife medi
 
 ::: {.section-block}
 
+## Connect by pathway
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Research collaboration
+
+Wildlife disease ecology, One Health, conservation physiology, environmental surveillance, and reproducible research.
+:::
+
+::: {.gateway-card}
+### Student mentorship
+
+Fieldwork, laboratory exposure, R/GitHub workflows, scientific writing, and academic development.
+:::
+
+::: {.gateway-card}
+### Outreach
+
+WildCiencia, community-based conservation, student training, and public science communication.
+:::
+
+::: {.gateway-card}
+### Future platforms
+
+Project websites, educational resources, reproducible repositories, WildCiencia, and future shop/outreach systems.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
 ## Contact information
 
 **Email:** [your-email-here@example.com](mailto:your-email-here@example.com)
@@ -37,35 +70,4 @@ Replace the placeholder email with your preferred professional email.
 [protocols.io](https://www.protocols.io/researchers/YOUR-PROTOCOLS-IO-PROFILE)
 
 :::
-:::
-
-::: {.section-block}
-
-## Research affiliation
-
-**Department of Biology**  
-University of Puerto Rico at Mayagüez  
-
-**ViDaB Lab**  
-Virus Diversity and Bioinformatics Laboratory  
-
-:::
-
-::: {.section-block}
-
-## Collaboration interests
-
-::: {.tag-list}
-<span>Conservation physiology</span>
-<span>Wildlife medicine and disease ecology</span>
-<span>Marine mammal conservation</span>
-<span>Toxoplasma gondii</span>
-<span>Environmental surveillance</span>
-<span>One Health</span>
-<span>Reproductive biology</span>
-<span>Bioinformatics</span>
-<span>Reproducible research</span>
-<span>Community-based science</span>
-:::
-
 :::
