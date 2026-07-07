@@ -1,55 +1,95 @@
 ---
-title: ""
+pagetitle: "Teaching | Alan J. Figueroa Ruiz"
+toc: true
+page-layout: full
 ---
 
+::: {.page-hero}
 # Teaching
 
-My teaching interests are grounded in physiology, anatomy, disease ecology, wildlife biology, One Health, and applied conservation science. I am especially interested in helping students connect biological concepts with real-world animal health, environmental health, and conservation problems.
+My teaching interests connect physiology, anatomy, disease ecology, wildlife biology, One Health, and reproducible research.
+:::
 
-## Teaching interests
+::: {.section-block}
 
-- Human and comparative physiology
-- Human and animal anatomy
-- Wildlife disease ecology
-- Conservation physiology
-- One Health
-- Virology and host-pathogen interactions
-- Reproducible research using R and GitHub
-- Scientific communication
+## Teaching pathways
 
-## Teaching experience
+::: {.gateway-grid}
 
-### Human Physiology
+::: {.gateway-card}
+### Biological foundations
 
-Experience supporting and teaching physiology content, including cardiovascular physiology, respiratory physiology, autonomic nervous system regulation, blood pressure, ECG interpretation, and integrated physiological responses.
+Physiology, anatomy, comparative biology, and organismal function.
+:::
 
-### Human Anatomy
+::: {.gateway-card}
+### Applied context
 
-Interest in teaching anatomy through comparative and functional perspectives, connecting structure to physiology, health, and disease.
+Wildlife health, disease ecology, conservation, and One Health case studies.
+:::
 
-### Student mentoring
+::: {.gateway-card}
+### Research skills
 
-I value mentoring undergraduate students through fieldwork, laboratory techniques, data analysis, scientific writing, and professional development. My goal is to help students see themselves as capable contributors to science, especially in Puerto Rican and island-based research contexts.
+R, GitHub, Quarto, data organization, visualization, and reproducible workflows.
+:::
 
-## Teaching philosophy
+::: {.gateway-card}
+### Mentorship
 
-I believe science education should be rigorous, accessible, and connected to place. Students learn more deeply when they can connect biological concepts to the ecosystems, animals, communities, and public health challenges around them.
+Student training, professional development, scientific writing, and confidence-building.
+:::
 
-My teaching approach emphasizes:
+:::
+:::
 
-- Clear conceptual explanations
-- Applied examples from wildlife, veterinary, and human health
-- Student participation and discussion
-- Visual learning and data interpretation
-- Reproducible workflows
-- Community-centered science
+::: {.section-block}
 
-## Future teaching materials
+## Teaching overview
 
-This website will eventually host selected teaching resources, including:
+I am interested in teaching biology in a way that connects concepts to real organisms, ecosystems, communities, and health problems. My teaching approach emphasizes clarity, application, visual learning, and the connection between biological mechanisms and real-world conservation or health challenges.
 
-- Short physiology explanations
-- Laboratory guides
-- R and GitHub tutorials
-- One Health case studies
-- Wildlife disease ecology teaching modules
+:::
+
+::: {.section-block}
+
+## Teaching model
+
+::: {.expedition-grid}
+
+::: {.expedition-card}
+### Concept
+
+Start with core biological principles and clear explanations.
+:::
+
+::: {.expedition-card}
+### Context
+
+Connect concepts to animals, humans, ecosystems, disease, and conservation.
+:::
+
+::: {.expedition-card}
+### Practice
+
+Use examples, diagrams, data, and applied cases to strengthen understanding.
+:::
+
+::: {.expedition-card}
+### Translation
+
+Help students communicate science clearly and confidently.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Mentorship
+
+I value mentoring students through research experiences, field sampling, laboratory techniques, scientific writing, data analysis, GitHub workflows, and professional development.
+
+An important part of my work is helping students see themselves as capable contributors to science, especially in Puerto Rican and island-based research contexts.
+
+:::

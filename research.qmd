@@ -1,16 +1,152 @@
 ---
-title: ""
+pagetitle: "Research | Alan J. Figueroa Ruiz"
+toc: true
+page-layout: full
 ---
 
+::: {.page-hero}
 # Research
 
-My research focuses on how pathogens, environmental change, and human-modified landscapes affect wildlife health.
+My research explores how pathogens, environmental change, and human-modified landscapes influence wildlife health, ecosystem health, and One Health outcomes.
+:::
 
-## Research themes
+::: {.section-block}
 
-- Pathogen movement across land-sea interfaces
-- Wildlife disease ecology
-- Conservation physiology
-- One Health and environmental health
-- Molecular diagnostics and environmental surveillance
-- Bioinformatics and reproducible research
+## Research overview
+
+My current work focuses on *Toxoplasma gondii* transmission across terrestrial, estuarine, and marine systems in Puerto Rico. I am especially interested in how oocyst contamination, runoff, stormwater pathways, coastal ecosystems, and manatee habitats may be connected through the land-sea interface.
+
+This work is part of a broader research vision that integrates conservation physiology, wildlife medicine and disease ecology, reproductive biology, environmental diagnostics, epidemiology, bioinformatics, and community-centered conservation science.
+
+:::
+
+::: {.section-block}
+
+## Research gateways
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Disease ecology
+
+Pathogen movement, environmental exposure, host-pathogen systems, and wildlife health.
+:::
+
+::: {.gateway-card}
+### Conservation physiology
+
+Biological responses to stressors, disease, environmental change, and human-modified landscapes.
+:::
+
+::: {.gateway-card}
+### One Health
+
+Connections among humans, animals, community animals, watersheds, coastal systems, and wildlife.
+:::
+
+::: {.gateway-card}
+### Reproducible research
+
+R, GitHub, Quarto, mapping, bioinformatics, transparent workflows, and public documentation.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Field-to-conservation model
+
+::: {.workflow-grid}
+
+::: {.workflow-step}
+### 1. Ecological setting
+
+Identify the landscape, species, habitat, watershed, or human-modified system where the conservation question emerges.
+:::
+
+::: {.workflow-step}
+### 2. Exposure pathway
+
+Evaluate how pathogens, stressors, or environmental contaminants may move through that system.
+:::
+
+::: {.workflow-step}
+### 3. Biological evidence
+
+Use field sampling, laboratory methods, diagnostics, and data analysis to characterize patterns.
+:::
+
+::: {.workflow-step}
+### 4. Conservation interpretation
+
+Translate results into wildlife health, One Health, education, outreach, and decision-making contexts.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Focal systems
+
+::: {.species-grid}
+
+::: {.species-card}
+### Caribbean manatee
+
+Marine mammal conservation, coastal habitat, environmental exposure, and health risk interpretation.
+:::
+
+::: {.species-card}
+### *Toxoplasma gondii*
+
+Environmental persistence, land-sea movement, host-pathogen interaction, and One Health relevance.
+:::
+
+::: {.species-card}
+### Human diagnostic records
+
+Retrospective epidemiological data that help build a human-health layer into Puerto Rico’s One Health picture.
+:::
+
+::: {.species-card}
+### Zebrafish ZF4 cells
+
+A comparative cellular system that helps connect exposure questions to host-pathogen biology.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Methods and tools
+
+::: {.tag-list}
+<span>Environmental sampling</span>
+<span>Field metadata</span>
+<span>Microscopy</span>
+<span>DNA extraction</span>
+<span>qPCR workflows</span>
+<span>R</span>
+<span>RStudio</span>
+<span>GitHub</span>
+<span>Quarto</span>
+<span>GIS</span>
+<span>Bioinformatics</span>
+<span>Scientific writing</span>
+<span>Science communication</span>
+:::
+
+:::
+
+::: {.section-block}
+
+## Long-term vision
+
+My long-term goal is to develop a research program that connects wildlife disease ecology, veterinary science, conservation physiology, reproductive biology, and One Health to understand how environmental change affects threatened species.
+
+I am especially interested in research that is useful for conservation decision-making, transparent through reproducible workflows, and accessible to the communities connected to the ecosystems being studied.
+
+:::

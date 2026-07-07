@@ -5,40 +5,63 @@ project:
 website:
   title: "Alan J. Figueroa Ruiz"
   site-url: "https://ajfigueroaruiz.github.io"
-  description: "Personal academic website of Alan J. Figueroa Ruiz, conservation agronomist and M.S. Biology student focused on wildlife disease ecology, One Health, and conservation physiology."
+  description: "Personal academic portal of Alan J. Figueroa Ruiz, conservation agronomist and M.S. Biology student focused on conservation physiology, wildlife medicine and disease ecology, reproductive biology, One Health, environmental surveillance, and pathogen movement across human-modified landscapes."
+  search: true
+  
   navbar:
     background: light
+    title: "Alan J. Figueroa Ruiz"
     left:
       - text: "Home"
         href: index.qmd
+        
       - text: "About"
         href: about.qmd
+        
       - text: "Research"
         href: research.qmd
+        
       - text: "Projects"
-        href: projects.qmd
+        menu:
+          - text: "Projects Overview"
+            href: projects.qmd
+          - text: "The Manatee Project Puerto Rico"
+            href: https://ajfigueroaruiz.github.io/manatee-project-pr/
+          - text: "Human T. gondii Epidemiology"
+            href: https://ajfigueroaruiz.github.io/toxorepi-pr/
+          - text: "ZF4 Cell Infection Model"
+            href: https://ajfigueroaruiz.github.io/zf4-toxoplasma-infection/
+          - text: "WildCiencia"
+            href: https://ajfigueroaruiz.github.io/wildciencia/
+            
       - text: "Publications & Presentations"
         href: publications.qmd
+        
       - text: "Teaching"
         href: teaching.qmd
+        
       - text: "Outreach"
         href: outreach.qmd
+        
       - text: "News"
         href: news.qmd
+        
       - text: "CV"
         href: cv.qmd
+        
       - text: "Contact"
         href: contact.qmd
+        
     right:
-      - icon: github
+      - text: "<img src='images/icons/github.svg' class='navbar-icon' alt='GitHub'>"
         href: https://github.com/ajfigueroaruiz
         aria-label: GitHub
         
-      - icon: linkedin
+      - text: "<img src='images/icons/linkedin.svg' class='navbar-icon' alt='LinkedIn'>"
         href: https://www.linkedin.com/in/alfiru
         aria-label: LinkedIn
         
-      - icon: envelope
+      - text: "<img src='images/icons/mail.svg' class='navbar-icon' alt='E-Mail'>"
         href: mailto:alan.figueroa@upr.edu
         aria-label: Email
         
@@ -55,7 +78,8 @@ website:
         aria-label: protocols.io
 
   page-footer:
-    left: "© 2026 Alan J. Figueroa Ruiz"
+    left: "© 2026 Alan J. Figueroa Ruiz All Rights Reserved"
+    center: "Find Your Path · Research · Projects · Teaching · Outreach"
     right: "Built with Quarto · Hosted on GitHub Pages"
 
 format:
@@ -68,4 +92,4 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
 
-editor: visual
+editor: source

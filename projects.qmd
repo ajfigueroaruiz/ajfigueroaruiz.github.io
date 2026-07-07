@@ -1,21 +1,115 @@
 ---
-title: ""
+pagetitle: "Projects | Alan J. Figueroa Ruiz"
+toc: false
+page-layout: full
 ---
 
+::: {.page-hero}
 # Projects
 
-## Manatee Project Puerto Rico
+This page is the central portal to my research and outreach projects. Each major project is designed to have its own GitHub repository and project-specific website.
+:::
 
-Research on *Toxoplasma gondii* transmission across terrestrial, estuarine, and marine environments in Puerto Rico, with conservation relevance for the endangered Antillean manatee.
+::: {.section-block}
 
-## Human *Toxoplasma gondii* Epidemiology in Puerto Rico
+## Project portfolio
 
-A retrospective analysis of human diagnostic records to characterize evidence of *T. gondii* exposure in Puerto Rico.
+::: {.project-grid}
 
-## Zebrafish ZF4 Cell Infection Model
+::: {.project-card}
+### Manatee Project Puerto Rico
+
+Environmental transmission of *Toxoplasma gondii* across terrestrial, estuarine, and marine systems in Puerto Rico, with conservation relevance for the endangered Caribbean manatee.
+
+**Project type:** Master's thesis research  
+**Main focus:** Wildlife disease ecology and One Health  
+**Future repository/site:** `manatee-project-puerto-rico`
+
+[Open project website →](https://ajfigueroaruiz.github.io/manatee-project-puerto-rico/){.card-link}
+:::
+
+::: {.project-card}
+### Human *Toxoplasma gondii* Epidemiology in Puerto Rico
+
+A retrospective analysis of human diagnostic records to characterize evidence of *T. gondii* exposure across Puerto Rico.
+
+**Project type:** Epidemiological analysis  
+**Main focus:** Human diagnostic records and One Health interpretation  
+**Future repository/site:** `human-toxoplasma-epidemiology-pr`
+
+[Open project website →](https://ajfigueroaruiz.github.io/human-toxoplasma-epidemiology-pr/){.card-link}
+:::
+
+::: {.project-card}
+### Zebrafish ZF4 Cell Infection Model
 
 A tissue and cellular biology project using zebrafish (*Danio rerio*) ZF4 cells infected with *Toxoplasma gondii*.
 
-## WildCiencia
+**Project type:** Cell biology and host-pathogen interaction  
+**Main focus:** Comparative infection model  
+**Future repository/site:** `zf4-toxoplasma-cell-infection`
 
-My personal science communication and community-based conservation outreach project.
+[Open project website →](https://ajfigueroaruiz.github.io/zf4-toxoplasma-cell-infection/){.card-link}
+:::
+
+::: {.project-card}
+### WildCiencia
+
+A science communication and outreach initiative focused on wildlife, conservation, One Health, and Puerto Rican island science.
+
+**Project type:** Outreach and science communication  
+**Main focus:** Community-based conservation education  
+**Future repository/site:** `wildciencia`
+
+[Open project website →](https://ajfigueroaruiz.github.io/wildciencia/){.card-link}
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Portal ecosystem
+
+::: {.expedition-grid}
+
+::: {.expedition-card}
+### Main portal
+
+Professional identity, CV, research overview, teaching, outreach, publications, and contact.
+:::
+
+::: {.expedition-card}
+### Project websites
+
+Dedicated websites for each major research and outreach project.
+:::
+
+::: {.expedition-card}
+### Repositories
+
+Code, scripts, documentation, figures, protocols, and reproducible workflows.
+:::
+
+::: {.expedition-card}
+### Future platforms
+
+WildCiencia, educational products, public resources, and possible shop integration.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Repository strategy
+
+The main website functions as my professional academic portal. Each major project will live in its own GitHub repository with its own Quarto website, allowing each project to grow independently while keeping a consistent visual identity.
+
+::: {.note-box}
+**Main portal:** `ajfigueroaruiz.github.io`  
+**Project websites:** separate repositories published with GitHub Pages.  
+**Future expansion:** project sites, outreach platforms, educational resources, and potential shop pages can reuse this design system.
+:::
+
+:::

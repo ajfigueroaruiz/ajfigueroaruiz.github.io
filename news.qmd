@@ -1,34 +1,77 @@
 ---
-title: ""
+pagetitle: "News | Alan J. Figueroa Ruiz"
+toc: false
+page-layout: full
 ---
 
+::: {.page-hero}
 # News
 
-This page will document research updates, presentations, outreach events, publications, fieldwork, and professional milestones.
+Research updates, presentations, outreach events, fieldwork notes, website releases, and professional milestones.
+:::
+
+::: {.section-block}
+
+## News pathways
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Research updates
+
+Manuscript progress, analysis milestones, project development, and new outputs.
+:::
+
+::: {.gateway-card}
+### Field notes
+
+Sampling updates, environmental observations, and project fieldwork stories.
+:::
+
+::: {.gateway-card}
+### Outreach
+
+Community events, WildCiencia updates, teaching materials, and public communication.
+:::
+
+::: {.gateway-card}
+### Website ecosystem
+
+New repositories, project websites, resource pages, and future platform updates.
+:::
+
+:::
+:::
+
+::: {.section-block}
 
 ## 2026
 
-### Personal academic website launched
+::: {.news-grid}
 
-This website was created as a central space for my research, teaching, outreach, publications, projects, and reproducible science portfolio.
+::: {.news-card}
+### Personal academic portal launched
 
-### Human *Toxoplasma gondii* epidemiology project
+This website was created as a central academic portal for my research, teaching, outreach, CV, publications, presentations, and project-specific websites.
 
-The human *Toxoplasma gondii* epidemiology project is being prepared for manuscript development. The project uses diagnostic records from Puerto Rico to assess exposure patterns and contribute to One Health research on the island.
+**Category:** Website update
+:::
 
-### Manatee Project Puerto Rico
+::: {.news-card}
+### Human *Toxoplasma gondii* epidemiology manuscript in preparation
 
-The Manatee Project Puerto Rico continues to develop as a research program focused on environmental transmission pathways of *Toxoplasma gondii* and potential implications for the endangered Antillean manatee.
+The human *Toxoplasma gondii* epidemiology project is being developed into a manuscript using diagnostic testing records from Puerto Rico.
 
-## Future updates
+**Category:** Research update
+:::
 
-This section will eventually include:
+::: {.news-card}
+### Manatee Project Puerto Rico continues development
 
-- Manuscript submissions
-- Conference presentations
-- Funding announcements
-- Fieldwork updates
-- Outreach events
-- New GitHub repositories
-- New protocols
-- Teaching resources
+The Manatee Project Puerto Rico continues as a research program focused on environmental transmission pathways of *Toxoplasma gondii* and potential conservation implications for the endangered Caribbean manatee.
+
+**Category:** Thesis research
+:::
+
+:::
+:::

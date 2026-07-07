@@ -1,17 +1,97 @@
 ---
-title: ""
-toc: false
+pagetitle: "CV | Alan J. Figueroa Ruiz"
+toc: true
+page-layout: full
 ---
 
+::: {.page-hero}
 # Curriculum Vitae
 
-This page provides a summary of my academic and professional background.
+Academic background, research experience, teaching, outreach, skills, and professional development.
+:::
 
-<div class="cv-button-block">
-<a class="button-primary" href="files/Alan-Figueroa-Ruiz-CV.pdf">Download CV</a>
-</div>
+::: {.section-block}
 
-Place your PDF CV inside the `files/` folder and name it exactly:
+::: {.cv-download}
+[Download full CV](files/Alan-Figueroa-Ruiz-CV.pdf){.button-primary}
+:::
 
-```text
-Alan-Figueroa-Ruiz-CV.pdf
+Place your CV PDF inside the `files/` folder and name it exactly:
+
+`Alan-Figueroa-Ruiz-CV.pdf`
+
+:::
+
+::: {.section-block}
+
+## Professional snapshot
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Education
+
+M.S. Biology student with a foundation in Animal Science, Natural Resources, Environmental Sociology, and Public Policy.
+:::
+
+::: {.gateway-card}
+### Research
+
+Wildlife disease ecology, One Health, conservation physiology, and environmental surveillance.
+:::
+
+::: {.gateway-card}
+### Tools
+
+R, RStudio, GitHub, Quarto, field metadata, molecular diagnostics, and reproducible workflows.
+:::
+
+::: {.gateway-card}
+### Direction
+
+Future DVM/PhD pathway integrating wildlife health, veterinary science, and conservation research.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Academic profile
+
+**Alan J. Figueroa Ruiz**  
+M.S. Biology student  
+University of Puerto Rico at Mayagüez  
+
+Conservation agronomist interested in conservation physiology, wildlife medicine and disease ecology, reproductive biology, One Health, environmental health, and pathogen movement across human-modified landscapes.
+
+:::
+
+::: {.section-block}
+
+## Research interests
+
+::: {.tag-list}
+<span>Conservation physiology</span>
+<span>Wildlife medicine and disease ecology</span>
+<span>Reproductive biology</span>
+<span>One Health</span>
+<span>Environmental diagnostics</span>
+<span>Molecular diagnostics</span>
+<span>Bioinformatics</span>
+<span>Reproducible research</span>
+<span>Community-based conservation</span>
+:::
+
+:::
+
+::: {.section-block}
+
+## Selected projects
+
+- Manatee Project Puerto Rico
+- Human *Toxoplasma gondii* Epidemiology in Puerto Rico
+- Zebrafish ZF4 Cell Infection Model
+- WildCiencia
+
+:::

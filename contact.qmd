@@ -1,29 +1,45 @@
 ---
-title: ""
+pagetitle: "Contact | Alan J. Figueroa Ruiz"
 toc: false
+page-layout: full
 ---
 
+::: {.page-hero}
 # Contact
 
-I welcome opportunities to connect around wildlife disease ecology, conservation physiology, One Health, environmental health, Puerto Rican island science, student mentoring, and community-based conservation.
+I welcome opportunities to connect around conservation physiology, wildlife medicine and disease ecology, reproductive biology, One Health, environmental health, Puerto Rican island science, student mentoring, and community-based conservation.
+:::
 
-## Email
+::: {.section-block}
 
-**Email:** [alan.figueroa@upr.edu](mailto:alan.figueroa@upr.edu)
+## Contact information
 
-Replace this placeholder with your preferred professional email.
+**Email:** [your-email-here@example.com](mailto:your-email-here@example.com)
+
+Replace the placeholder email with your preferred professional email.
+
+:::
+
+::: {.section-block}
 
 ## Professional links
 
-- [GitHub](https://github.com/ajfigueroaruiz)
-- [LinkedIn](https://www.linkedin.com/in/alfiru)
-- [ORCID](https://orcid.org/0009-0000-0484-3257)
-- [ResearchGate](https://www.researchgate.net/profile/Alan-Figueroa-Ruiz)
-- [protocols.io](https://www.protocols.io/researchers/alfiru)
+::: {.link-grid}
 
-## Microsoft - Book Time to Meet with Me
+[GitHub](https://github.com/ajfigueroaruiz)
 
-- [Book Time](https://outlook.office.com/bookwithme/user/6d14d094f2d34a2390a4a9699a33e653@upr.edu?anonymous&ismsaljsauthenabled&ep=plink)
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
+[ORCID](https://orcid.org/YOUR-ORCID-ID)
+
+[ResearchGate](https://www.researchgate.net/profile/YOUR-RESEARCHGATE-NAME)
+
+[protocols.io](https://www.protocols.io/researchers/YOUR-PROTOCOLS-IO-PROFILE)
+
+:::
+:::
+
+::: {.section-block}
 
 ## Research affiliation
 
@@ -31,17 +47,25 @@ Replace this placeholder with your preferred professional email.
 University of Puerto Rico at Mayagüez  
 
 **ViDaB Lab**  
-Virus Diversity and Bioinformatics Laboratory
+Virus Diversity and Bioinformatics Laboratory  
+
+:::
+
+::: {.section-block}
 
 ## Collaboration interests
 
-I am especially interested in collaborations related to:
+::: {.tag-list}
+<span>Conservation physiology</span>
+<span>Wildlife medicine and disease ecology</span>
+<span>Marine mammal conservation</span>
+<span>Toxoplasma gondii</span>
+<span>Environmental surveillance</span>
+<span>One Health</span>
+<span>Reproductive biology</span>
+<span>Bioinformatics</span>
+<span>Reproducible research</span>
+<span>Community-based science</span>
+:::
 
-- Wildlife disease ecology
-- Marine mammal conservation
-- *Toxoplasma gondii* transmission
-- Environmental surveillance
-- One Health
-- Conservation physiology
-- Bioinformatics and reproducible research
-- Community-based science education
+:::

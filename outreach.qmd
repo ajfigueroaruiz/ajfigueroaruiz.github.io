@@ -1,57 +1,99 @@
 ---
-title: ""
+pagetitle: "Outreach | Alan J. Figueroa Ruiz"
+toc: true
+page-layout: full
 ---
 
+::: {.page-hero}
 # Outreach
 
-Community-based science is central to my work. I believe conservation becomes stronger when communities are not treated only as audiences, but as partners in understanding, caring for, and protecting local environments.
+Community-based science, student training, conservation education, and public-facing One Health communication.
+:::
+
+::: {.section-block}
+
+## Outreach pathways
+
+::: {.gateway-grid}
+
+::: {.gateway-card}
+### Community
+
+Conservation education connected to local ecosystems, species, and environmental concerns.
+:::
+
+::: {.gateway-card}
+### Students
+
+Research exposure, fieldwork, laboratory skills, data literacy, and professional development.
+:::
+
+::: {.gateway-card}
+### WildCiencia
+
+Public-facing science communication, visual storytelling, and future educational resources.
+:::
+
+::: {.gateway-card}
+### Conservation action
+
+Accessible science that supports belonging, care, and protection of local spaces.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Outreach vision
+
+I believe conservation becomes stronger when communities are not treated only as audiences, but as partners, knowledge holders, and caretakers of local spaces.
+
+My outreach work is guided by the idea that people protect places more deeply when they develop belonging in those places.
+
+:::
+
+::: {.section-block}
+
+## Community engagement model
+
+::: {.expedition-grid}
+
+::: {.expedition-card}
+### Listen
+
+Understand community connections to local ecosystems, species, and environmental concerns.
+:::
+
+::: {.expedition-card}
+### Translate
+
+Turn technical research into accessible language, visuals, stories, and educational materials.
+:::
+
+::: {.expedition-card}
+### Train
+
+Support students through research experiences, fieldwork, laboratory exposure, and communication skills.
+:::
+
+::: {.expedition-card}
+### Return
+
+Bring research knowledge back to communities through outreach, education, and public-facing resources.
+:::
+
+:::
+:::
+
+::: {.section-block}
 
 ## WildCiencia
 
-WildCiencia is a science communication and outreach initiative focused on making wildlife, conservation, and One Health science more accessible to the public.
+WildCiencia is a developing science communication and outreach initiative focused on wildlife, conservation, One Health, environmental health, and Puerto Rican island science.
 
-The goal is to connect scientific research with communities, students, educators, and conservation partners through accessible language, visual communication, and culturally relevant storytelling.
+The goal is to translate research into accessible language, visual communication, and culturally relevant storytelling that can support environmental awareness and conservation action.
 
-## Community-based conservation science
+[Future WildCiencia website →](https://ajfigueroaruiz.github.io/wildciencia/){.button-inline}
 
-My outreach work is shaped by the idea that communities can develop belonging in local spaces and are often the people who put conservation into action.
-
-Areas of outreach interest include:
-
-- Wildlife conservation education
-- Manatee conservation
-- Environmental health
-- One Health
-- Pathogen movement across land and sea
-- Responsible pet ownership and cat-related environmental health
-- Student training and mentorship
-- Puerto Rican island science
-
-## Manatee Project Puerto Rico outreach
-
-The Manatee Project Puerto Rico integrates research, fieldwork, education, and community engagement to communicate how environmental health connects with the conservation of endangered marine mammals.
-
-Future outreach materials may include:
-
-- Educational infographics
-- Field sampling explainers
-- Community talks
-- Short videos
-- School-based activities
-- Public-facing summaries of research findings
-
-## Student training
-
-An important part of my work is helping undergraduate and high school students gain exposure to research. Training areas include:
-
-- Field sampling
-- Laboratory methods
-- Metadata organization
-- Scientific communication
-- Literature review
-- R and data analysis
-- Professional development
-
-## Outreach archive
-
-Future outreach events, photos, flyers, and public materials will be added here.
+:::

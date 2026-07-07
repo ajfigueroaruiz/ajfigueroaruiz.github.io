@@ -1,14 +1,80 @@
 ---
-title: ""
+pagetitle: "About | Alan J. Figueroa Ruiz"
+toc: true
+page-layout: full
 ---
 
+::: {.page-hero}
 # About
 
-I am a conservation agronomist and master’s student in Biology at the University of Puerto Rico at Mayagüez. My academic background combines Animal Science, Natural Resources Conservation and Development, and Environmental Sociology and Public Policy, giving me a multidisciplinary foundation in animal biology, conservation, environmental systems, and the social dimensions of natural resource management.
+I am a conservation agronomist and master's student in Biology at the University of Puerto Rico at Mayagüez, working across wildlife disease ecology, conservation physiology, One Health, reproductive biology, and environmental health.
+:::
 
-My research interests focus on wildlife health, conservation physiology, One Health, comparative anatomy, reproductive biology, and the effects of landscape change, anthropogenic activity, and climate change on threatened species. My current graduate research examines Toxoplasma gondii at the land–sea interface in Puerto Rico, with emphasis on pathogen movement from terrestrial environments into coastal ecosystems and its potential implications for the endangered Caribbean manatee. Through this work, I integrate disease ecology, physiology, wildlife conservation, environmental health, molecular diagnostics, bioinformatics, and community-based outreach.
-I am particularly interested in using veterinary medicine and biological sciences together to understand how disease, environmental stressors, reproductive processes, tissue-level changes, and physiological responses shape the health and survival of wildlife populations. This interest connects my current work in ecological disease and conservation with my broader goal of applying comparative anatomy, embryology, reproductive biology, and conservation physiology to the study and protection of endangered species.
+::: {.section-block}
 
-I am deeply committed to community-based science because I believe communities have the power to reclaim, care for, and develop a sense of belonging within the spaces they inhabit, and that they are essential partners in putting conservation into action. I bring experience in conservation, animal science, research support, scientific writing, project coordination, environmental education, and community outreach. My long-term goal is to pursue combined DVM/PhD training and contribute to wildlife medicine, conservation research, reproductive and physiological approaches to species preservation, and the protection of endangered species worldwide.
+## Academic background
 
-More content coming soon.
+My academic path combines Animal Science, Natural Resources Conservation, Management and Development, and Environmental Sociology and Public Policy. This combination shaped how I think about biology: not only as the study of organisms, but also as the study of ecosystems, landscapes, communities, policy, and the social conditions that influence conservation outcomes.
+
+My current graduate work focuses on *Toxoplasma gondii* at the land-sea interface in Puerto Rico, with emphasis on environmental transmission pathways and conservation implications for the endangered Caribbean manatee.
+
+:::
+
+::: {.section-block}
+
+## Find my path
+
+::: {.audience-grid}
+
+::: {.audience-card}
+### Academic formation
+
+Animal Science, Natural Resources Conservation and Development, Environmental Sociology, and Public Policy.
+:::
+
+::: {.audience-card}
+### Research direction
+
+Wildlife disease ecology, One Health, conservation physiology, environmental diagnostics, and reproducible science.
+:::
+
+::: {.audience-card}
+### Conservation identity
+
+Puerto Rican island science, watershed-to-coast thinking, wildlife health, and community-centered conservation.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Conservation identity
+
+I am interested in conservation science that begins with real ecological problems and moves toward useful evidence. My work is rooted in the idea that wildlife health cannot be separated from landscapes, communities, domestic animals, infrastructure, environmental change, and policy.
+
+Puerto Rico is central to my scientific identity. Island systems make connections visible: mountains to rivers, cities to estuaries, cats to coastal waters, pathogens to wildlife, and communities to conservation action.
+
+:::
+
+::: {.section-block}
+
+## Professional direction
+
+I describe myself as a conservation agronomist because my academic foundation began in agriculture and animal science, but my current work extends into wildlife health, disease ecology, conservation physiology, environmental diagnostics, bioinformatics, and One Health.
+
+My long-term goal is to build a career that integrates wildlife disease ecology, veterinary science, comparative physiology, reproductive biology, and conservation research.
+
+:::
+
+::: {.section-block}
+
+## Current academic home
+
+**Department of Biology**  
+University of Puerto Rico at Mayagüez  
+
+**ViDaB Lab**  
+Virus Diversity and Bioinformatics Laboratory  
+
+:::
