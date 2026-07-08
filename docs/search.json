@@ -392,6 +392,13 @@
     "text": "Research overview\nMy current work focuses on Toxoplasma gondii transmission across terrestrial, estuarine, and marine systems in Puerto Rico. I am especially interested in how oocyst contamination, runoff, stormwater pathways, coastal ecosystems, and manatee habitats may be connected through the land-sea interface.\nThis work is part of a broader research vision that integrates conservation physiology, wildlife medicine and disease ecology, reproductive biology, environmental diagnostics, epidemiology, bioinformatics, and community-centered conservation science."
   },
   {
+    "objectID": "research.html#field-to-conservation-workflow",
+    "href": "research.html#field-to-conservation-workflow",
+    "title": "Research",
+    "section": "Field-to-conservation workflow",
+    "text": "Field-to-conservation workflow\nMy research connects field observations, laboratory evidence, computational analysis, mapping, outreach, and academic conservation spaces. This workflow reflects how I want my science to move: from real landscapes and samples toward reproducible evidence, conservation interpretation, and public communication.\n\n\n\n\n\nField sampling and ecological context\n\n\n\n1. Field\nEnvironmental and ecological questions begin in real landscapes, watersheds, coastal habitats, and human-modified systems.\n\n\n\n\n\n\nLaboratory diagnostics and sample processing\n\n\n\n2. Lab\nField samples become biological evidence through microscopy, molecular diagnostics, DNA extraction, qPCR workflows, and careful sample processing.\n\n\n\n\n\n\nCoding and bioinformatics workflow\n\n\n\n3. Code\nR, GitHub, Quarto, data cleaning, visualization, and reproducible workflows help turn raw information into transparent analysis.\n\n\n\n\n\n\nLand-sea transmission and mapping analysis\n\n\n\n4. Mapping\nSpatial thinking helps connect mountains, rivers, cities, estuaries, coastal ecosystems, and manatee habitats through the land-sea interface.\n\n\n\n\n\n\nConservation outreach with children and community education\n\n\n\n5. Conservation outreach\nScience should return to communities through education, visual communication, student training, and public-facing conservation storytelling.\n\n\n\n\n\n\nConservation in academic and community spaces\n\n\n\n6. Conservation in academia\nAcademic spaces can become bridges between research, conservation partners, students, communities, and future collaborative action.\n\n\n\n\n\nField\n\n\n→\n\n\nLab\n\n\n→\n\n\nCode\n\n\n→\n\n\nMapping\n\n\n→\n\n\nOutreach\n\n\n→\n\n\nAcademia\n\n\n\nScroll sideways to explore the workflow →"
+  },
+  {
     "objectID": "research.html#research-gateways",
     "href": "research.html#research-gateways",
     "title": "Research",
@@ -425,12 +432,5 @@
     "title": "Research",
     "section": "Long-term vision",
     "text": "Long-term vision\nMy long-term goal is to develop a research program that connects wildlife disease ecology, veterinary science, conservation physiology, reproductive biology, and One Health to understand how environmental change affects threatened species.\nI am especially interested in research that is useful for conservation decision-making, transparent through reproducible workflows, and accessible to the communities connected to the ecosystems being studied."
-  },
-  {
-    "objectID": "research.html#field-to-conservation-workflow",
-    "href": "research.html#field-to-conservation-workflow",
-    "title": "Research",
-    "section": "Field-to-conservation workflow",
-    "text": "Field-to-conservation workflow\nMy research connects field observations, laboratory evidence, computational analysis, mapping, outreach, and academic conservation spaces. This workflow reflects how I want my science to move: from real landscapes and samples toward reproducible evidence, conservation interpretation, and public communication.\n\n\n\n\n\nField sampling and ecological context\n\n\n\n1. Field\nEnvironmental and ecological questions begin in real landscapes, watersheds, coastal habitats, and human-modified systems.\n\n\n\n\n\n\nLaboratory diagnostics and sample processing\n\n\n\n2. Lab\nField samples become biological evidence through microscopy, molecular diagnostics, DNA extraction, qPCR workflows, and careful sample processing.\n\n\n\n\n\n\nCoding and bioinformatics workflow\n\n\n\n3. Code\nR, GitHub, Quarto, data cleaning, visualization, and reproducible workflows help turn raw information into transparent analysis.\n\n\n\n\n\n\nLand-sea transmission and mapping analysis\n\n\n\n4. Mapping\nSpatial thinking helps connect mountains, rivers, cities, estuaries, coastal ecosystems, and manatee habitats through the land-sea interface.\n\n\n\n\n\n\nConservation outreach with children and community education\n\n\n\n5. Conservation outreach\nScience should return to communities through education, visual communication, student training, and public-facing conservation storytelling.\n\n\n\n\n\n\nConservation in academic and community spaces\n\n\n\n6. Conservation in academia\nAcademic spaces can become bridges between research, conservation partners, students, communities, and future collaborative action.\n\n\n\n\nField\n\n\n→\n\n\nLab\n\n\n→\n\n\nCode\n\n\n→\n\n\nMapping\n\n\n→\n\n\nOutreach\n\n\n→\n\n\nAcademia\n\n\n\nScroll sideways to explore the workflow →"
   }
 ]
