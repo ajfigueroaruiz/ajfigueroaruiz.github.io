@@ -123,6 +123,26 @@ This website serves as my main academic portal. It connects my research, teachin
 
 :::
 
+::: {.section-block}
+
+::: {.profile-feature}
+
+::: {.profile-photo}
+![Alan J. Figueroa Ruiz Field Headshot](images/profile/alan-profile-1.jpg)
+:::
+
+::: {.profile-text}
+## From island landscapes to wildlife health
+
+My academic path connects agriculture, animal science, natural resources, environmental sociology, and biology. I am especially interested in Puerto Rican island systems because they make ecological connections visible: mountains to rivers, cities to estuaries, cats to coastal waters, pathogens to wildlife, and communities to conservation action.
+
+This portal brings together my research, project websites, outreach, teaching, CV, and future platforms.
+:::
+
+:::
+
+:::
+
 ::: {.conservation-statement}
 
 ## Conservation question
@@ -135,59 +155,84 @@ My work approaches this question from Puerto Rico’s land-sea interface, where 
 
 ::: {.section-block}
 
-## Portal ecosystem
+## Project ecosystem
 
-::: {.resource-wall}
+::: {.project-grid}
 
-::: {.resource-card}
-### Research
+::: {.project-card .project-card-visual}
+![Manatee Project Puerto Rico logo](images/projects/manatee-project.jpg){.project-thumb}
 
-Wildlife disease ecology, One Health, conservation physiology, reproductive biology, and environmental surveillance.
+### Manatee Project Puerto Rico
 
-[Explore →](research.qmd)
+Environmental transmission of *Toxoplasma gondii* across terrestrial, estuarine, and marine systems in Puerto Rico.
+
+::: {.badge-row}
+[Active thesis project]{.status-badge .badge-active}
+[M.S. research]{.status-badge .badge-type}
+[One Health]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
 :::
 
-::: {.resource-card}
-### Projects
-
-A central gateway to project-specific websites and repositories.
-
-[Explore →](projects.qmd)
+[Project website →](https://ajfigueroaruiz.github.io/manatee-project-puerto-rico/){.card-link}
 :::
 
-::: {.resource-card}
-### Publications & Presentations
+::: {.project-card .project-card-visual}
+![ToxoREpi project identity](images/projects/human-toxo-epi.png){.project-thumb}
 
-Manuscripts, talks, posters, protocols, and research outputs.
+### Human *T. gondii* Epidemiology
 
-[Explore →](publications.qmd)
+Retrospective analysis of diagnostic records to characterize evidence of exposure in Puerto Rico.
+
+::: {.badge-row}
+[Manuscript in preparation]{.status-badge .badge-manuscript}
+[Epidemiology]{.status-badge .badge-type}
+[Reproducible R pipeline]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
 :::
 
-::: {.resource-card}
-### Teaching
-
-Physiology, anatomy, disease ecology, reproducible research, and student mentorship.
-
-[Explore →](teaching.qmd)
+[Project website →](https://ajfigueroaruiz.github.io/human-toxoplasma-epidemiology-pr/){.card-link}
 :::
 
-::: {.resource-card}
-### Outreach
+::: {.project-card .project-card-visual}
+![Zebrafish ZF4 cell infection project identity](images/projects/zf4-cells.png){.project-thumb}
 
-WildCiencia, community-based conservation, student training, and public science communication.
+### Zebrafish ZF4 Cell Infection Model
 
-[Explore →](outreach.qmd)
+Cellular and tissue-based work using zebrafish ZF4 cells infected with *Toxoplasma gondii*.
+
+::: {.badge-row}
+[Developing project]{.status-badge .badge-developing}
+[Cell biology]{.status-badge .badge-type}
+[Host-pathogen interaction]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
 :::
 
-::: {.resource-card}
-### CV & Contact
+[Project website →](https://ajfigueroaruiz.github.io/zf4-toxoplasma-cell-infection/){.card-link}
+:::
 
-Academic background, skills, professional links, and collaboration interests.
+::: {.project-card .project-card-visual}
+![WildCiencia logo](images/projects/wildciencia.png){.project-thumb}
 
-[Explore →](cv.qmd)
+### WildCiencia
+
+Science communication and community-based conservation outreach focused on island science.
+
+::: {.badge-row}
+[Developing outreach platform]{.status-badge .badge-outreach}
+[Science communication]{.status-badge .badge-type}
+[Community conservation]{.status-badge .badge-theme}
+[Platform coming soon]{.status-badge .badge-coming}
+:::
+
+[Project website →](https://ajfigueroaruiz.github.io/wildciencia/){.card-link}
 :::
 
 :::
+
+::: {.note-box}
+These project links are designed for future project-specific GitHub Pages websites. They may show a temporary 404 until each individual project repository is created and published.
+:::
+
 :::
 
 ::: {.section-block}

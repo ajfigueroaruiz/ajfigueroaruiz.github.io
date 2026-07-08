@@ -88,6 +88,79 @@ Bring research knowledge back to communities through outreach, education, and pu
 
 ::: {.section-block}
 
+## Outreach highlights
+
+::: {.outreach-grid}
+
+::: {.outreach-card}
+![Manatee Conservation Night outreach event](images/outreach/manatee-conservation-night-2025.jpeg){.outreach-thumb}
+
+### Manatee Conservation Night
+
+Community-centered conservation outreach focused on manatee health, coastal ecosystems, and environmental awareness.
+:::
+
+::: {.outreach-card}
+![Community movie forum](images/outreach/movieforum-1.jpg){.outreach-thumb}
+
+### Community movie-forum
+
+Public engagement through film, discussion, and conservation education connected to local communities.
+:::
+
+::: {.outreach-card}
+![Operation Viral Christmas 2024](images/outreach/operation-viral-christmas-2024-1.jpeg){.outreach-thumb}
+
+### Operation Viral Christmas
+
+A holiday outreach initiative connecting science, community support, and student-led engagement.
+:::
+
+::: {.outreach-card}
+![Teacher workshop field activity](images/outreach/barranquitas-teachers-workshop-fishsnail-collection-1.jpg){.outreach-thumb}
+
+### Teacher and student workshops
+
+Hands-on learning experiences connecting field sampling, environmental health, and science education.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Outreach and media gallery
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![CienciaPR Villalba activity](images/outreach/cienciapr-villalba-2025-1.jpg)
+:::
+
+::: {.gallery-item}
+![CienciaPR Adjuntas activity](images/outreach/cienciapr-adjuntas-2026-1.jpeg)
+:::
+
+::: {.gallery-item}
+![Mayagüez library kids meeting](images/outreach/mayaguez-library-kids-meeting.jpeg)
+:::
+
+::: {.gallery-item}
+![WKBJ radio manatee project exposure](images/outreach/wkjb-radio-manatee-project-expose.jpg)
+:::
+
+::: {.gallery-item}
+![Barranquitas teacher workshop processing](images/outreach/barranquitas-teachers-workshop-fishsnail-processing.jpg)
+:::
+
+::: {.gallery-item}
+![El Seco community meeting](images/outreach/elseco-comunity-meeting.jpeg)
+:::
+:::
+:::
+
+::: {.section-block}
+
 ## WildCiencia
 
 WildCiencia is a developing science communication and outreach initiative focused on wildlife, conservation, One Health, environmental health, and Puerto Rican island science.

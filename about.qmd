@@ -12,11 +12,21 @@ I am a conservation agronomist and master's student in Biology at the University
 
 ::: {.section-block}
 
+::: {.about-split}
+
+::: {.about-copy}
 ## Academic background
 
-My academic path combines Animal Science, Natural Resources Conservation, Management and Development, and Environmental Sociology and Public Policy. This combination shaped how I think about biology: not only as the study of organisms, but also as the study of ecosystems, landscapes, communities, policy, and the social conditions that influence conservation outcomes.
+My academic path combines Animal Science, Natural Resources Management, Conservation and Development, and Environmental Sociology and Public Policy. This combination shaped how I think about biology: not only as the study of organisms, but also as the study of ecosystems, landscapes, communities, policy, and the social conditions that influence conservation outcomes.
 
 My current graduate work focuses on *Toxoplasma gondii* at the land-sea interface in Puerto Rico, with emphasis on environmental transmission pathways and conservation implications for the endangered Caribbean manatee.
+:::
+
+::: {.about-photo}
+![Alan J. Figueroa Ruiz Professional Headshot](images/profile/alan-profile-2.jpeg)
+:::
+
+:::
 
 :::
 
@@ -29,19 +39,131 @@ My current graduate work focuses on *Toxoplasma gondii* at the land-sea interfac
 ::: {.audience-card}
 ### Academic formation
 
-Animal Science, Natural Resources Conservation and Development, Environmental Sociology, and Public Policy.
+Animal Science, Natural Resources Conservation Management and Development, Environmental Sociology, and Public Policy.
 :::
 
 ::: {.audience-card}
 ### Research direction
 
-Wildlife disease ecology, One Health, conservation physiology, environmental diagnostics, and reproducible science.
+Wildlife medicine and disease ecology, One Health, conservation physiology, reproductive biology, environmental diagnostics, and reproducible science.
 :::
 
 ::: {.audience-card}
 ### Conservation identity
 
-Puerto Rican island science, watershed-to-coast thinking, wildlife health, and community-centered conservation.
+Puerto Rican island science, watershed-to-coast thinking, landscape thinking, wildlife health, and community-centered conservation.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Academic path
+
+::: {.academic-timeline}
+
+::: {.academic-step}
+::: {.timeline-dot}
+1
+:::
+::: {.timeline-card}
+### Agricultural and animal science foundation
+
+My academic formation began in Animal Science, where I developed a technical foundation in agriculture, animal biology, physiology, production systems, and applied biological sciences.
+
+::: {.badge-row}
+[Animal Science]{.status-badge .badge-type}
+[Agriculture]{.status-badge .badge-theme}
+[Applied biology]{.status-badge .badge-theme}
+:::
+:::
+:::
+
+::: {.academic-step}
+::: {.timeline-dot}
+2
+:::
+::: {.timeline-card}
+### Conservation, natural resources, and society
+
+I expanded my training through Natural Resources Conservation and Development, Environmental Sociology, and Public Policy. This helped me think about conservation as both a biological and social process shaped by ecosystems, communities, policy, and environmental change.
+
+::: {.badge-row}
+[Natural resources]{.status-badge .badge-theme}
+[Environmental sociology]{.status-badge .badge-theme}
+[Public policy]{.status-badge .badge-theme}
+:::
+:::
+:::
+
+::: {.academic-step}
+::: {.timeline-dot}
+3
+:::
+::: {.timeline-card}
+### Transition into wildlife health and disease ecology
+
+My interests moved toward wildlife disease ecology, conservation physiology, One Health, and the ways pathogens, landscapes, domestic animals, humans, and wildlife are connected through shared environments.
+
+::: {.badge-row}
+[Wildlife disease ecology]{.status-badge .badge-active}
+[Conservation physiology]{.status-badge .badge-theme}
+[One Health]{.status-badge .badge-theme}
+:::
+:::
+:::
+
+::: {.academic-step}
+::: {.timeline-dot}
+4
+:::
+::: {.timeline-card}
+### M.S. Biology at UPRM
+
+As a master's student in Biology at the University of Puerto Rico at Mayagüez, my graduate research focuses on *Toxoplasma gondii* transmission across the land-sea interface in Puerto Rico and its potential conservation implications for the endangered Caribbean manatee.
+
+::: {.badge-row}
+[M.S. Biology]{.status-badge .badge-type}
+[Manatee Project Puerto Rico]{.status-badge .badge-active}
+[*Toxoplasma gondii*]{.status-badge .badge-theme}
+:::
+:::
+:::
+
+::: {.academic-step}
+::: {.timeline-dot}
+5
+:::
+::: {.timeline-card}
+### Reproducible research and project ecosystems
+
+I am building my work around reproducible research practices using R, RStudio, GitHub, Quarto, environmental data, molecular diagnostics, and project-specific websites that can grow into long-term research and outreach platforms.
+
+::: {.badge-row}
+[R]{.status-badge .badge-theme}
+[GitHub]{.status-badge .badge-theme}
+[Quarto]{.status-badge .badge-theme}
+[Project websites]{.status-badge .badge-coming}
+:::
+:::
+:::
+
+::: {.academic-step}
+::: {.timeline-dot}
+6
+:::
+::: {.timeline-card}
+### Future direction
+
+My long-term path is oriented toward wildlife health, veterinary science, conservation physiology, reproductive biology, One Health, and research that supports threatened species conservation, community-based science, and environmental decision-making.
+
+::: {.badge-row}
+[Future DVM/PhD pathway]{.status-badge .badge-developing}
+[Wildlife health]{.status-badge .badge-theme}
+[Conservation medicine]{.status-badge .badge-theme}
+:::
+:::
 :::
 
 :::

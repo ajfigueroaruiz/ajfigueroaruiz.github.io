@@ -22,6 +22,130 @@ This work is part of a broader research vision that integrates conservation phys
 
 ::: {.section-block}
 
+## Field-to-conservation workflow
+
+My research connects field observations, laboratory evidence, computational analysis, mapping, outreach, and academic conservation spaces. This workflow reflects how I want my science to move: from real landscapes and samples toward reproducible evidence, conservation interpretation, and public communication.
+
+::: {.workflow-carousel}
+
+::: {.workflow-slide}
+![Field sampling and ecological context](images/research/fieldwork.jpg){.workflow-image}
+
+::: {.workflow-caption}
+### 1. Field
+
+Environmental and ecological questions begin in real landscapes, watersheds, coastal habitats, and human-modified systems.
+:::
+:::
+
+::: {.workflow-slide}
+![Laboratory diagnostics and sample processing](images/research/labwork.jpg){.workflow-image}
+
+::: {.workflow-caption}
+### 2. Lab
+
+Field samples become biological evidence through microscopy, molecular diagnostics, DNA extraction, qPCR workflows, and careful sample processing.
+:::
+:::
+
+::: {.workflow-slide}
+![Coding and bioinformatics workflow](images/research/coding-bioinformatics.png){.workflow-image}
+
+::: {.workflow-caption}
+### 3. Code
+
+R, GitHub, Quarto, data cleaning, visualization, and reproducible workflows help turn raw information into transparent analysis.
+:::
+:::
+
+::: {.workflow-slide}
+![Land-sea transmission and mapping analysis](images/research/land-sea-transmission-analysis.png){.workflow-image}
+
+::: {.workflow-caption}
+### 4. Mapping
+
+Spatial thinking helps connect mountains, rivers, cities, estuaries, coastal ecosystems, and manatee habitats through the land-sea interface.
+:::
+:::
+
+::: {.workflow-slide}
+![Conservation outreach with children and community education](images/research/outreach-kids.jpeg){.workflow-image}
+
+::: {.workflow-caption}
+### 5. Conservation outreach
+
+Science should return to communities through education, visual communication, student training, and public-facing conservation storytelling.
+:::
+:::
+
+::: {.workflow-slide}
+![Conservation in academic and community spaces](images/research/outreach-academic-community.jpg){.workflow-image}
+
+::: {.workflow-caption}
+### 6. Conservation in academia
+
+Academic spaces can become bridges between research, conservation partners, students, communities, and future collaborative action.
+:::
+:::
+
+:::
+
+::: {.workflow-mini-map}
+
+::: {.workflow-mini-step}
+**Field**
+:::
+
+::: {.workflow-arrow}
+→
+:::
+
+::: {.workflow-mini-step}
+**Lab**
+:::
+
+::: {.workflow-arrow}
+→
+:::
+
+::: {.workflow-mini-step}
+**Code**
+:::
+
+::: {.workflow-arrow}
+→
+:::
+
+::: {.workflow-mini-step}
+**Mapping**
+:::
+
+::: {.workflow-arrow}
+→
+:::
+
+::: {.workflow-mini-step}
+**Outreach**
+:::
+
+::: {.workflow-arrow}
+→
+:::
+
+::: {.workflow-mini-step}
+**Academia**
+:::
+
+:::
+
+::: {.scroll-note}
+Scroll sideways to explore the workflow →
+:::
+
+:::
+
+::: {.section-block}
+
 ## Research gateways
 
 ::: {.gateway-grid}

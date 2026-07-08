@@ -49,10 +49,20 @@ WildCiencia, community-based conservation, education, and future public resource
 
 ::: {.project-grid}
 
-::: {.project-card}
+::: {.project-card .project-card-visual}
+![Manatee Project Puerto Rico logo](images/projects/manatee-project.jpg){.project-thumb}
+
 ### Manatee Project Puerto Rico
 
 Environmental transmission of *Toxoplasma gondii* across terrestrial, estuarine, and marine systems in Puerto Rico, with conservation relevance for the endangered Caribbean manatee.
+
+::: {.badge-row}
+[Active thesis project]{.status-badge .badge-active}
+[M.S. research]{.status-badge .badge-type}
+[Wildlife disease ecology]{.status-badge .badge-theme}
+[Marine mammal conservation]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
+:::
 
 **Project type:** Master's thesis research  
 **Main focus:** Wildlife disease ecology and One Health  
@@ -61,10 +71,20 @@ Environmental transmission of *Toxoplasma gondii* across terrestrial, estuarine,
 [Open project website →](https://ajfigueroaruiz.github.io/manatee-project-puerto-rico/){.card-link}
 :::
 
-::: {.project-card}
+::: {.project-card .project-card-visual}
+![ToxoREpi project identity](images/projects/human-toxo-epi.png){.project-thumb}
+
 ### Human *Toxoplasma gondii* Epidemiology in Puerto Rico
 
 A retrospective analysis of human diagnostic records to characterize evidence of *T. gondii* exposure across Puerto Rico.
+
+::: {.badge-row}
+[Manuscript in preparation]{.status-badge .badge-manuscript}
+[Epidemiology]{.status-badge .badge-type}
+[Public health]{.status-badge .badge-theme}
+[Reproducible R pipeline]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
+:::
 
 **Project type:** Epidemiological analysis  
 **Main focus:** Human diagnostic records and One Health interpretation  
@@ -73,10 +93,20 @@ A retrospective analysis of human diagnostic records to characterize evidence of
 [Open project website →](https://ajfigueroaruiz.github.io/human-toxoplasma-epidemiology-pr/){.card-link}
 :::
 
-::: {.project-card}
+::: {.project-card .project-card-visual}
+![Zebrafish ZF4 cell infection project identity](images/projects/zf4-cells.png){.project-thumb}
+
 ### Zebrafish ZF4 Cell Infection Model
 
 A tissue and cellular biology project using zebrafish (*Danio rerio*) ZF4 cells infected with *Toxoplasma gondii*.
+
+::: {.badge-row}
+[Developing project]{.status-badge .badge-developing}
+[Cell biology]{.status-badge .badge-type}
+[Host-pathogen interaction]{.status-badge .badge-theme}
+[Comparative model]{.status-badge .badge-theme}
+[Project site coming soon]{.status-badge .badge-coming}
+:::
 
 **Project type:** Cell biology and host-pathogen interaction  
 **Main focus:** Comparative infection model  
@@ -85,16 +115,55 @@ A tissue and cellular biology project using zebrafish (*Danio rerio*) ZF4 cells 
 [Open project website →](https://ajfigueroaruiz.github.io/zf4-toxoplasma-cell-infection/){.card-link}
 :::
 
-::: {.project-card}
+::: {.project-card .project-card-visual}
+![WildCiencia logo](images/projects/wildciencia.png){.project-thumb}
+
 ### WildCiencia
 
 A science communication and outreach initiative focused on wildlife, conservation, One Health, and Puerto Rican island science.
+
+::: {.badge-row}
+[Developing outreach platform]{.status-badge .badge-outreach}
+[Science communication]{.status-badge .badge-type}
+[Community-based conservation]{.status-badge .badge-theme}
+[Education]{.status-badge .badge-theme}
+[Platform coming soon]{.status-badge .badge-coming}
+:::
 
 **Project type:** Outreach and science communication  
 **Main focus:** Community-based conservation education  
 **Future repository/site:** `wildciencia`
 
 [Open project website →](https://ajfigueroaruiz.github.io/wildciencia/){.card-link}
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Project status guide
+
+::: {.badge-legend}
+
+::: {.badge-legend-item}
+[Active thesis project]{.status-badge .badge-active}  
+Currently central to my graduate research.
+:::
+
+::: {.badge-legend-item}
+[Manuscript in preparation]{.status-badge .badge-manuscript}  
+Research output currently being developed for publication.
+:::
+
+::: {.badge-legend-item}
+[Developing project]{.status-badge .badge-developing}  
+Project direction, content, or repository structure is being built.
+:::
+
+::: {.badge-legend-item}
+[Developing outreach platform]{.status-badge .badge-outreach}  
+Public-facing education, outreach, or communication platform in development.
 :::
 
 :::
