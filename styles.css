@@ -1470,3 +1470,52 @@ code {
     min-height: auto;
   }
 }
+
+/* ================================
+   Outreach archive categories
+   ================================ */
+
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.archive-card {
+  background: #ffffff;
+  border: 1px solid #d9e5e1;
+  border-radius: 22px;
+  padding: 1.25rem;
+  box-shadow: 0 10px 26px rgba(16, 49, 45, 0.06);
+}
+
+.archive-card h3 {
+  margin-top: 0;
+  color: #073630;
+}
+
+.mini-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.45rem;
+  margin-top: 1rem;
+}
+
+.mini-gallery p {
+  margin: 0;
+}
+
+.mini-gallery img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+.archive-card:hover {
+  transform: translateY(-3px);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 16px 34px rgba(16, 49, 45, 0.12);
+}

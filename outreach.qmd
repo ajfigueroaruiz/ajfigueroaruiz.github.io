@@ -1,6 +1,7 @@
 ---
 pagetitle: "Outreach | Alan J. Figueroa Ruiz"
 toc: true
+toc-depth: 2
 page-layout: full
 ---
 
@@ -88,40 +89,178 @@ Bring research knowledge back to communities through outreach, education, and pu
 
 ::: {.section-block}
 
-## Outreach highlights
+## Featured outreach stories
 
-::: {.outreach-grid}
+These selected outreach stories document community-based conservation, student training, public education, media engagement, and science communication connected to my work in wildlife disease ecology, One Health, and conservation science.
 
-::: {.outreach-card}
-![Manatee Conservation Night outreach event](images/outreach/manatee-conservation-night-2025.jpeg){.outreach-thumb}
+::: {.outreach-entry}
 
+::: {.outreach-entry-image}
+![Manatee Conservation Night outreach event](images/outreach/manatee-conservation-night-2025.jpeg)
+:::
+
+::: {.outreach-entry-content}
 ### Manatee Conservation Night
 
-Community-centered conservation outreach focused on manatee health, coastal ecosystems, and environmental awareness.
+::: {.badge-row}
+[Community conservation]{.status-badge .badge-outreach}
+[Manatee Project Puerto Rico]{.status-badge .badge-active}
+[One Health outreach]{.status-badge .badge-theme}
 :::
 
-::: {.outreach-card}
-![Community movie forum](images/outreach/movieforum-1.jpg){.outreach-thumb}
+**Focus:** Manatee conservation, coastal ecosystems, environmental health, and community science  
+**Format:** Community event, educational activities, and public conservation discussion  
 
-### Community movie-forum
-
-Public engagement through film, discussion, and conservation education connected to local communities.
+Manatee Conservation Night was developed as a community-centered outreach activity connecting marine mammal conservation, environmental health, and public science communication. The event created a space to discuss the conservation of the Caribbean manatee, the importance of coastal ecosystems, and the ways communities can participate in conservation action.
 :::
 
-::: {.outreach-card}
-![Operation Viral Christmas 2024](images/outreach/operation-viral-christmas-2024-1.jpeg){.outreach-thumb}
+:::
 
+::: {.outreach-entry}
+
+::: {.outreach-entry-image}
+![Operation Viral Christmas outreach flyer](images/outreach/operation-viral-christmas-2024-1.jpeg)
+:::
+
+::: {.outreach-entry-content}
 ### Operation Viral Christmas
 
-A holiday outreach initiative connecting science, community support, and student-led engagement.
+::: {.badge-row}
+[Community outreach]{.status-badge .badge-outreach}
+[Student engagement]{.status-badge .badge-theme}
+[Science and service]{.status-badge .badge-type}
 :::
 
-::: {.outreach-card}
-![Teacher workshop field activity](images/outreach/barranquitas-teachers-workshop-fishsnail-collection-1.jpg){.outreach-thumb}
+**Focus:** Community support, student-led engagement, and science-connected outreach  
+**Format:** Holiday outreach initiative  
 
+Operation Viral Christmas connects science, service, and student engagement. The initiative reflects the idea that scientific communities can contribute beyond the laboratory by supporting local communities and building a culture of care, belonging, and public connection.
+:::
+
+:::
+
+::: {.outreach-entry}
+
+::: {.outreach-entry-image}
+![Teacher workshop field collection activity](images/outreach/barranquitas-teachers-workshop-fishsnail-collection-2.jpg)
+:::
+
+::: {.outreach-entry-content}
+### Teacher and Student Conservation Workshops
+
+::: {.badge-row}
+[Teacher workshop]{.status-badge .badge-type}
+[Hands-on science]{.status-badge .badge-theme}
+[Environmental education]{.status-badge .badge-outreach}
+:::
+
+**Focus:** Field sampling, aquatic organisms, conservation education, and laboratory exposure  
+**Format:** Workshop and hands-on training  
+
+These workshops connect classroom learning with field and laboratory experiences. Activities such as aquatic sampling, organism observation, processing, and microscopy help participants connect environmental systems with biological research and conservation questions.
+:::
+
+:::
+
+::: {.outreach-entry}
+
+::: {.outreach-entry-image}
+![CienciaPR outreach activity](images/outreach/cienciapr-villalba-2025-1.jpg)
+:::
+
+::: {.outreach-entry-content}
+### CienciaPR School Outreach
+
+::: {.badge-row}
+[K–12 outreach]{.status-badge .badge-outreach}
+[Science communication]{.status-badge .badge-theme}
+[Puerto Rican science]{.status-badge .badge-type}
+:::
+
+**Focus:** Science education, conservation awareness, and student engagement  
+**Format:** School-based outreach  
+
+CienciaPR outreach activities create opportunities to communicate science with younger audiences and connect biological concepts to Puerto Rican ecosystems, conservation, and environmental health.
+:::
+
+:::
+
+::: {.outreach-entry}
+
+::: {.outreach-entry-image}
+![Radio interview and public communication](images/outreach/wkjb-radio-manatee-project-expose.jpg)
+:::
+
+::: {.outreach-entry-content}
+### Media and Public Communication
+
+::: {.badge-row}
+[Media outreach]{.status-badge .badge-outreach}
+[Public communication]{.status-badge .badge-theme}
+[Manatee Project Puerto Rico]{.status-badge .badge-active}
+:::
+
+**Focus:** Public communication of conservation science  
+**Format:** Media/radio engagement  
+
+Media engagement helps translate research beyond academic spaces and reach broader audiences. This type of communication is central to building visibility for conservation work, community science, and future WildCiencia resources.
+:::
+
+:::
+:::
+
+::: {.section-block}
+
+## Outreach archive by category
+
+::: {.archive-grid}
+
+::: {.archive-card}
+### Community conservation
+
+Community events, conservation nights, movie forums, manatee education, and local environmental engagement.
+
+::: {.mini-gallery}
+![Arena manatee presentation](images/outreach/arena-manatee-presentation.jpg)
+![Community movie forum](images/outreach/movieforum-1.jpg)
+![El Seco community meeting](images/outreach/elseco-comunity-meeting.jpeg)
+:::
+:::
+
+::: {.archive-card}
 ### Teacher and student workshops
 
-Hands-on learning experiences connecting field sampling, environmental health, and science education.
+Hands-on educational activities connecting field sampling, aquatic organisms, microscopy, and conservation science.
+
+::: {.mini-gallery}
+![Teacher workshop processing](images/outreach/barranquitas-teachers-workshop-fishsnail-processing.jpg)
+![Zebrafish dissection workshop](images/outreach/barranquitas-teachers-workshop-zebrafish-disection-1.jpg)
+![Parasite identification activity](images/outreach/barranquitas-teachers-workshop-fishsnail-parasite-identification.jpg)
+:::
+:::
+
+::: {.archive-card}
+### K–12 and public education
+
+Science communication activities with schools, libraries, and community learning spaces.
+
+::: {.mini-gallery}
+![CienciaPR Adjuntas activity](images/outreach/cienciapr-adjuntas-2026-1.jpeg)
+![CienciaPR Villalba activity](images/outreach/cienciapr-villalba-2025-1.jpg)
+![Mayagüez library kids meeting](images/outreach/mayaguez-library-kids-meeting.jpeg)
+:::
+:::
+
+::: {.archive-card}
+### Media and platform development
+
+Public-facing communication through WildCiencia, media appearances, outreach materials, and future digital platforms.
+
+::: {.mini-gallery}
+![WildCiencia preview](images/outreach/wildciencia-preview.png)
+![Radio communication](images/outreach/wkjb-radio-manatee-project-expose.jpg)
+![Operation Viral Christmas](images/outreach/operation-viral-christmas-2024-2.jpeg)
+:::
 :::
 
 :::
@@ -188,33 +327,34 @@ This initiative also represents the type of outreach I want to continue developi
 
 ::: {.section-block}
 
-## Outreach and media gallery
+## Media gallery
 
 ::: {.gallery-grid}
 
 ::: {.gallery-item}
-![CienciaPR Villalba activity](images/outreach/cienciapr-villalba-2025-1.jpg)
+![Manatee post installation](images/outreach/manatee-posts-installation-elseco-mayaguez-1.jpeg)
 :::
 
 ::: {.gallery-item}
-![CienciaPR Adjuntas activity](images/outreach/cienciapr-adjuntas-2026-1.jpeg)
+![Manatee post installation in Mayagüez](images/outreach/manatee-posts-installation-elseco-mayaguez-2.jpg)
 :::
 
 ::: {.gallery-item}
-![Mayagüez library kids meeting](images/outreach/mayaguez-library-kids-meeting.jpeg)
+![Movie forum group activity](images/outreach/movieforum-2.jpg)
 :::
 
 ::: {.gallery-item}
-![WKBJ radio manatee project exposure](images/outreach/wkjb-radio-manatee-project-expose.jpg)
+![Operation Viral Christmas field activity](images/outreach/operation-viral-christmas-2024-3.jpeg)
 :::
 
 ::: {.gallery-item}
-![Barranquitas teacher workshop processing](images/outreach/barranquitas-teachers-workshop-fishsnail-processing.jpg)
+![Barranquitas teacher workshop Artemia count](images/outreach/barranquitas-teachers-workshop-fishsnail-artemia-salina-count.jpg)
 :::
 
 ::: {.gallery-item}
-![El Seco community meeting](images/outreach/elseco-comunity-meeting.jpeg)
+![CienciaPR Adjuntas activity](images/outreach/cienciapr-adjuntas-2026-3.jpeg)
 :::
+
 :::
 :::
 
