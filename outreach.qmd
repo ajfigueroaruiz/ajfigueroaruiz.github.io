@@ -110,8 +110,11 @@ These selected outreach stories document community-based conservation, student t
 
 **Focus:** Manatee conservation, coastal ecosystems, environmental health, and community science  
 **Format:** Community event, educational activities, and public conservation discussion  
+**Related project:** Manatee Project Puerto Rico
 
 Manatee Conservation Night was developed as a community-centered outreach activity connecting marine mammal conservation, environmental health, and public science communication. The event created a space to discuss the conservation of the Caribbean manatee, the importance of coastal ecosystems, and the ways communities can participate in conservation action.
+
+This activity reflects my broader commitment to science that returns to communities, especially in Puerto Rican coastal and island contexts where people, wildlife, watersheds, and ecosystems are deeply connected.
 :::
 
 :::
@@ -133,8 +136,11 @@ Manatee Conservation Night was developed as a community-centered outreach activi
 
 **Focus:** Community support, student-led engagement, and science-connected outreach  
 **Format:** Holiday outreach initiative  
+**Related themes:** Community-based science, student training, public engagement
 
-Operation Viral Christmas connects science, service, and student engagement. The initiative reflects the idea that scientific communities can contribute beyond the laboratory by supporting local communities and building a culture of care, belonging, and public connection.
+Operation Viral Christmas is a community-oriented outreach initiative that connects science, service, and student engagement. The activity reflects the idea that scientific communities can contribute beyond the laboratory by supporting local communities and building a culture of care, belonging, and public connection.
+
+This initiative also represents the type of outreach I want to continue developing through WildCiencia: science that is visible, human, accessible, and connected to the people and places it serves.
 :::
 
 :::
@@ -156,6 +162,7 @@ Operation Viral Christmas connects science, service, and student engagement. The
 
 **Focus:** Field sampling, aquatic organisms, conservation education, and laboratory exposure  
 **Format:** Workshop and hands-on training  
+**Related themes:** Environmental education, aquatic systems, field-to-lab learning
 
 These workshops connect classroom learning with field and laboratory experiences. Activities such as aquatic sampling, organism observation, processing, and microscopy help participants connect environmental systems with biological research and conservation questions.
 :::
@@ -179,6 +186,7 @@ These workshops connect classroom learning with field and laboratory experiences
 
 **Focus:** Science education, conservation awareness, and student engagement  
 **Format:** School-based outreach  
+**Related themes:** Puerto Rican science, environmental education, youth engagement
 
 CienciaPR outreach activities create opportunities to communicate science with younger audiences and connect biological concepts to Puerto Rican ecosystems, conservation, and environmental health.
 :::
@@ -202,11 +210,13 @@ CienciaPR outreach activities create opportunities to communicate science with y
 
 **Focus:** Public communication of conservation science  
 **Format:** Media/radio engagement  
+**Related themes:** Manatee conservation, public science communication, outreach visibility
 
 Media engagement helps translate research beyond academic spaces and reach broader audiences. This type of communication is central to building visibility for conservation work, community science, and future WildCiencia resources.
 :::
 
 :::
+
 :::
 
 ::: {.section-block}
@@ -268,61 +278,14 @@ Public-facing communication through WildCiencia, media appearances, outreach mat
 
 ::: {.section-block}
 
-## Featured outreach entries
+## WildCiencia
 
-These entries document selected outreach, education, and community-based conservation activities connected to my work in wildlife disease ecology, One Health, and conservation science.
+WildCiencia is a developing science communication and outreach initiative focused on wildlife, conservation, One Health, environmental health, and Puerto Rican island science.
 
-::: {.outreach-entry}
+The goal is to translate research into accessible language, visual communication, and culturally relevant storytelling that can support environmental awareness and conservation action.
 
-::: {.outreach-entry-image}
-![Manatee Conservation Night outreach event](images/outreach/manatee-conservation-night-2025.jpeg)
-:::
+[Future WildCiencia website →](https://ajfigueroaruiz.github.io/wildciencia/){.button-inline}
 
-::: {.outreach-entry-content}
-### Manatee Conservation Night
-
-::: {.badge-row}
-[Community conservation]{.status-badge .badge-outreach}
-[Manatee Project Puerto Rico]{.status-badge .badge-active}
-[One Health outreach]{.status-badge .badge-theme}
-:::
-
-**Focus:** Manatee conservation, coastal ecosystems, environmental health, and community science  
-**Format:** Community event, educational activities, and public conservation discussion  
-**Related project:** Manatee Project Puerto Rico
-
-Manatee Conservation Night was developed as a community-centered outreach activity connecting marine mammal conservation, environmental health, and public science communication. The event created a space to discuss the conservation of the Caribbean manatee, the importance of coastal ecosystems, and the ways communities can participate in conservation action.
-
-This activity reflects my broader commitment to science that returns to communities, especially in Puerto Rican coastal and island contexts where people, wildlife, watersheds, and ecosystems are deeply connected.
-:::
-
-:::
-
-::: {.outreach-entry}
-
-::: {.outreach-entry-image}
-![Operation Viral Christmas 2024 outreach flyer](images/outreach/operation-viral-christmas-2024-1.jpeg)
-:::
-
-::: {.outreach-entry-content}
-### Operation Viral Christmas
-
-::: {.badge-row}
-[Community outreach]{.status-badge .badge-outreach}
-[Student engagement]{.status-badge .badge-theme}
-[Science and service]{.status-badge .badge-type}
-:::
-
-**Focus:** Community support, student-led engagement, and science-connected outreach  
-**Format:** Holiday outreach initiative  
-**Related themes:** Community-based science, student training, public engagement
-
-Operation Viral Christmas is a community-oriented outreach initiative that connects science, service, and student engagement. The activity reflects the idea that scientific communities can contribute beyond the laboratory by supporting local communities and building a culture of care, belonging, and public connection.
-
-This initiative also represents the type of outreach I want to continue developing through WildCiencia: science that is visible, human, accessible, and connected to the people and places it serves.
-:::
-
-:::
 :::
 
 ::: {.section-block}
@@ -356,16 +319,4 @@ This initiative also represents the type of outreach I want to continue developi
 :::
 
 :::
-:::
-
-::: {.section-block}
-
-## WildCiencia
-
-WildCiencia is a developing science communication and outreach initiative focused on wildlife, conservation, One Health, environmental health, and Puerto Rican island science.
-
-The goal is to translate research into accessible language, visual communication, and culturally relevant storytelling that can support environmental awareness and conservation action.
-
-[Future WildCiencia website →](https://ajfigueroaruiz.github.io/wildciencia/){.button-inline}
-
 :::
